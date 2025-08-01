@@ -1,7 +1,10 @@
-import Image from "next/image";
-
+import About from "./components/About";
+import Experience from "./components/Experience";
 export default function Home() {
   return (
-    <div>Hi there</div>
+    <>
+      <About />
+      <Experience />
+    </>
   )
 }
