@@ -7,7 +7,7 @@ export default function About() {
     <section className="min-h-screen flex items-center justify-center px-4 py-10">
       <div className="max-w-7xl mx-auto w-full">
         {/* Section Title */}
-        <div className="text-center mb-16">
+        <div className="text-center mb-2 mt-10">
           <h2 className="text-5xl md:text-6xl font-bold text-white mb-4">
             About Me
           </h2>

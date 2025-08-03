@@ -50,7 +50,7 @@ export default function Experience() {
   };
 
   return (
-    <section id="experience" className="min-h-screen flex items-center justify-center px-4 py-20">
+    <section id="experience" className="min-h-screen flex items-center justify-center px-4 py-10">
       <div className="max-w-7xl mx-auto w-full">
         {/* Section Title */}
         <div className="text-center mb-16">
@@ -58,9 +58,6 @@ export default function Experience() {
             Work Experience
           </h2>
           <div className="w-24 h-1 bg-white mx-auto rounded-full mb-6"></div>
-          <p className="text-lg text-gray-300">
-            Companies I&apos;ve worked with and the projects I&apos;ve been involved in
-          </p>
         </div>
 
         <div className="space-y-6 max-w-4xl mx-auto">
