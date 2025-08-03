@@ -3,7 +3,7 @@
 import React, { useState } from "react";
 import { SpotlightCard } from "./ui/spotlight-card";
 import { Calendar, ChevronRight } from "lucide-react";
-import { cn } from "@/lib/utils";
+import { cn } from "../lib/utils";
 
 type Experience = {
   company: string;
