@@ -9,6 +9,27 @@ import { ChatMessageBubble } from './chat/ChatMessageBubble';
 import { TypingIndicator } from './chat/TypingIndicator';
 import { ChatInput } from './chat/ChatInput';
 
+function buildChatHistory(messages: ChatMessage[]): [string, string][] {
+  const history: [string, string][] = [];
+  // Skip the initial AI welcome message
+  const conversationMessages = messages.slice(1);
+
+  for (let i = 0; i < conversationMessages.length; i += 2) {
+    const userMessage = conversationMessages[i];
+    const aiMessage = conversationMessages[i + 1];
+
+    if (
+      userMessage &&
+      userMessage.type === MessageType.USER &&
+      aiMessage &&
+      aiMessage.type === MessageType.AI
+    ) {
+      history.push([userMessage.content, aiMessage.content]);
+    }
+  }
+  return history;
+}
+
 // Main AskMe Component
 export default function AskMe() {
   const [messages, setMessages] = useState<ChatMessage[]>([
@@ -45,44 +66,67 @@ export default function AskMe() {
       status: MessageStatus.SENT
     };
 
+    const chat_history = buildChatHistory(messages);
+    const currentQuery = inputValue;
+
     setMessages(prev => [...prev, userMessage]);
     setInputValue('');
     setIsTyping(true);
 
-    // Simulate AI response
-    setTimeout(() => {
-      const aiResponses = [
-        "Lakshya is a passionate full-stack developer with expertise in modern web technologies including React, Next.js, TypeScript, and various backend technologies. He enjoys creating innovative digital experiences through clean code and thoughtful design.",
-        "He's currently working on several exciting projects including Finfluenzz, a financial literacy platform that gamifies money management. You can check out his work on his GitHub profile.",
-        "Lakshya has experience in both frontend and backend development, with a focus on creating user-friendly applications. He's always learning new technologies and contributing to open-source projects.",
-        "When he's not coding, Lakshya enjoys exploring new technologies, contributing to open-source projects, and sharing knowledge with the developer community. He believes in the power of collaboration and continuous growth.",
-        "You can reach out to Lakshya through his portfolio website or connect with him on professional networks. He's always open to discussing new opportunities and collaborations."
-      ];
+    try {
+      const res = await fetch('http://127.0.0.1:8000/api/chat', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          query: currentQuery,
+          chat_history: chat_history
+        })
+      });
 
-      const randomResponse = aiResponses[Math.floor(Math.random() * aiResponses.length)];
-      
+      if (!res.ok) {
+        const errorText = await res.text();
+        throw new Error(`API responded with ${res.status}: ${errorText}`);
+      }
+
+      const data = await res.json();
+      const aiResponseContent = data.answer;
+
+      if (typeof aiResponseContent !== 'string') {
+        throw new Error("Invalid response format from API.");
+      }
+
       const aiMessage: ChatMessage = {
         id: (Date.now() + 1).toString(),
         type: MessageType.AI,
-        content: randomResponse,
+        content: aiResponseContent,
         timestamp: new Date(),
-        status: MessageStatus.TYPING
+        status: MessageStatus.TYPING,
       };
 
       setMessages(prev => [...prev, aiMessage]);
       setIsTyping(false);
 
-      // Mark as complete after typing animation
       setTimeout(() => {
-        setMessages(prev => 
-          prev.map(msg => 
-            msg.id === aiMessage.id 
+        setMessages(prev =>
+          prev.map(msg =>
+            msg.id === aiMessage.id
               ? { ...msg, status: MessageStatus.COMPLETE }
               : msg
           )
         );
-      }, randomResponse.length * 20 + 1000);
-    }, 2000);
+      }, aiResponseContent.length * 20 + 1000);
+    } catch (error) {
+      console.error("Failed to get response from AI", error);
+      const errorMessage: ChatMessage = {
+        id: (Date.now() + 1).toString(),
+        type: MessageType.AI,
+        content: "Sorry, something went wrong. Please try again later.",
+        timestamp: new Date(),
+        status: MessageStatus.COMPLETE,
+      };
+      setMessages(prev => [...prev, errorMessage]);
+      setIsTyping(false);
+    }
   };
 
   const handleKeyPress = (e: React.KeyboardEvent) => {

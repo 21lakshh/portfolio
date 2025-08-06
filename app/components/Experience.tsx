@@ -4,15 +4,19 @@ import React, { useState } from "react";
 import { SpotlightCard } from "./ui/spotlight-card";
 import { Calendar, ChevronRight } from "lucide-react";
 import { cn } from "../lib/utils";
+import { LinkPreview } from "./ui/link-preview";
 
 type Experience = {
   company: string;
-  companyLink?: string; // optional now
   position: string;
   duration: string;
   description: string[];
   technologies: string[];
   link?: string;
+  previewLinks?: {
+    url: string;
+    text: string;
+  }[];
 };
 
 const experiences: Experience[] = [
@@ -22,23 +26,33 @@ const experiences: Experience[] = [
     position: "Full Stack AI Intern",
     duration: "July 2025 - Present",
     description: [
-      "Designed and built alpha strategies for U.S. equity markets using quantitative methods",
-      "Conducted data analysis, modeling, and backtesting of trading strategies",
-      "Identified consistent, profitable opportunities using financial data and market insights",
-
+      "Building an AI-powered mock interview platform to help students gain practical interview experience and improve job readiness.",
+      "Building Call AI Agents focused on bridging employment gaps in rural communities through conversational AI solutions",
+      "Integrating Livekit WebRTC framework for seamless real-time communication",
     ],
-    technologies: ["Quantitative Research", "Alpha Generation", "Statistical modeling", "Python",],
+    technologies: ["Livekit", "Next.js", "AWS S3", "Express.js",],
+    previewLinks: [
+      // {
+      //   url: "https://arxiv.org/abs/2505.07637",
+      //   text: "Learn more about Chronocept's research",
+      // },
+    ],
   },
   {
     company: "Chronocept",
     position: "Research Intern",
     duration: "June 2025 - July 2025",
     description: [
-      "Developed and maintained web applications using React and Next.js",
-      "Implemented responsive design and user-friendly interfaces",
-      "Collaborated with cross-functional teams to deliver high-quality software solutions",
+      "Annotated 250+ text samples to train NLP systems on temporal reasoning through segmentation, axis classification, and temporal validity modeling.",
+      "Supported the creation of the Chronocept Dataset, improving AI's understanding of event timelines.",
     ],
-    technologies: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    technologies: ["NLP", "Temporal Reasoning", "Python", "Hugging Face"],
+    previewLinks: [
+      {
+        url: "https://arxiv.org/abs/2505.07637",
+        text: "Link to Chronocept's research paper",
+      }
+    ],
   },
 ];
 
@@ -77,6 +91,7 @@ export default function Experience() {
             >
               <div className="space-y-4">
                 <div className="flex xs:flex-row flex-col items-start justify-between gap-4">
+                  
                   <section className="space-y-1">
                     <div className="flex items-center gap-2">
                       <h3 className="text-2xl font-bold text-white">
@@ -113,7 +128,7 @@ export default function Experience() {
                   )}
                 >
                   <div className="overflow-hidden">
-                    <div className="pt-6 space-y-6">
+                    <div className="pt-2 space-y-6">
                       <ul className="space-y-3 text-gray-300">
                         {experience.description.map((item, i) => (
                           <li
@@ -129,6 +144,29 @@ export default function Experience() {
                           >
                             <div className="w-2 h-2 rounded-full bg-blue-400 mt-2 flex-shrink-0"></div>
                             <span className="text-base leading-relaxed">{item}</span>
+                          </li>
+                        ))}
+                      </ul>
+
+                      <ul className="space-y-3 text-gray-300">
+                        {experience.previewLinks?.map((item, i) => (
+                          <li
+                            key={i}
+                            style={{ transitionDelay: `${i * 100}ms` }}
+                            className={cn(
+                              "flex items-start gap-3 transition-all duration-500",
+                              "transform-gpu",
+                              expandedIndex === index
+                                ? "opacity-100 translate-y-0"
+                                : "opacity-0 translate-y-4"
+                            )}
+                          >
+                            <div className="w-2 h-2 rounded-full bg-blue-400 mt-3 flex-shrink-0"></div>
+                            <span className="text-base leading-relaxed">
+                              <LinkPreview url={item.url} className="text-base text-blue-300 font-medium hover:text-blue-200">
+                                {item.text}
+                              </LinkPreview>
+                            </span>
                           </li>
                         ))}
                       </ul>
