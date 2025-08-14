@@ -4,10 +4,10 @@ import Image from "next/image";
 
 export default function About() {
   return (
-    <section className="min-h-screen flex items-center justify-center px-4 py-10">
+    <section id="about" className="min-h-screen flex items-center justify-center px-4 py-10">
       <div className="max-w-7xl mx-auto w-full">
         {/* Section Title */}
-        <div className="text-center mb-2 mt-10">
+        <div className="text-center mb-12 mt-10 ">
           <h2 className="text-5xl md:text-6xl font-bold text-white mb-4">
             About Me
           </h2>
@@ -17,27 +17,24 @@ export default function About() {
         {/* Main Content - 50/50 Split */}
         <div className="grid lg:grid-cols-2 gap-12 lg:gap-20 items-center">
           {/* Left Side - Text Content */}
-          <div className="space-y-8">
+          <div className="space-y-8 md:ml-30">
             <div>
               <h3 className="text-2xl md:text-3xl font-bold text-white mb-6">
                 Hi, I'm <span className="text-blue-400">Lakshya Paliwal</span>
               </h3>
               <p className="text-lg text-gray-300 leading-relaxed mb-6">
-                I'm a passionate full-stack developer with a love for creating innovative
-                digital experiences. With expertise in modern web technologies, I bring
-                ideas to life through clean code and thoughtful design.
+                a 3rd year cse undergrad at Manipal Universtiy and a developer from Delhi, India. I love working with AI and automation.
               </p>
               <p className="text-lg text-gray-300 leading-relaxed mb-6">
-                My journey in software development began several years ago, and since then
-                I've been dedicated to crafting solutions that make a difference. I enjoy
-                working with cutting-edge technologies and constantly learning new skills
-                to stay ahead in this ever-evolving field.
+                currently working with a startup as a full stack AI Engineer where I am building an AI-powered mock interview platform with Livekit WebRTC. I also previously worked with some seniors for some research work on temporal reasoning for chatbots.
               </p>
+
+              <p className="text-lg text-gray-300 leading-relaxed mb-6">
+                When not coding, I go for a walk, listen to songs and chill with my friends. I am also fairly active on <b className="text-blue-400">X</b> browsing about latest breakthroughs in AI.
+              </p>
+
               <p className="text-lg text-gray-300 leading-relaxed">
-                When I'm not coding, you can find me exploring new technologies,
-                contributing to open-source projects, or sharing knowledge with the
-                developer community. I believe in the power of collaboration and
-                continuous growth.
+                I'm open to work, freelance, or collaborate. <a href="#contact" className="text-blue-400">Contact Me.</a>
               </p>
             </div>
           </div>

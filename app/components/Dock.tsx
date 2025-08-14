@@ -2,11 +2,10 @@ import React from "react";
 import { FloatingDock } from "./ui/floating-dock";
 import {
   IconBrandGithub,
+  IconBrandLinkedin,
   IconBrandX,
-  IconExchange,
+  IconFile,
   IconHome,
-  IconNewSection,
-  IconTerminal2,
 } from "@tabler/icons-react";
 
 export function FloatingDockDemo() {
@@ -20,53 +19,31 @@ export function FloatingDockDemo() {
     },
 
     {
-      title: "Products",
-      icon: (
-        <IconTerminal2 className="h-full w-full text-blue-300 hover:text-blue-200 transition-colors duration-300" />
-      ),
-      href: "#",
+      title: "Resume",
+      icon: <IconFile className="h-full w-full text-blue-300 hover:text-blue-200 transition-colors duration-300" />,
+      href: "https://drive.google.com/file/d/1Bh0y6lDLgjsJvUrb34bmaUjUZFqJSdRM/view?usp=sharing",
     },
     {
-      title: "Components",
+      title: "LinkedIn",
       icon: (
-        <IconNewSection className="h-full w-full text-blue-300 hover:text-blue-200 transition-colors duration-300" />
+        <IconBrandLinkedin className="h-full w-full text-blue-300 hover:text-blue-200 transition-colors duration-300" />
       ),
-      href: "#",
-    },
-    {
-      title: "Aceternity UI",
-      icon: (
-        <img
-          src="https://assets.aceternity.com/logo-dark.png"
-          width={20}
-          height={20}
-          alt="Aceternity Logo"
-          className="opacity-80 hover:opacity-100 transition-opacity duration-300"
-        />
-      ),
-      href: "#",
-    },
-    {
-      title: "Changelog",
-      icon: (
-        <IconExchange className="h-full w-full text-blue-300 hover:text-blue-200 transition-colors duration-300" />
-      ),
-      href: "#",
+      href: "https://www.linkedin.com/in/lakshya-paliwal-67a5222aa/",
     },
 
     {
-      title: "Twitter",
+      title: "X",
       icon: (
         <IconBrandX className="h-full w-full text-blue-300 hover:text-blue-200 transition-colors duration-300" />
       ),
-      href: "#",
+      href: "https://x.com/lakshh__",
     },
     {
       title: "GitHub",
       icon: (
         <IconBrandGithub className="h-full w-full text-blue-300 hover:text-blue-200 transition-colors duration-300" />
       ),
-      href: "#",
+      href: "https://github.com/21lakshh",
     },
   ];
   return (

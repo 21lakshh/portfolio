@@ -20,7 +20,7 @@ const ContactFooter = () => {
   };
 
   return (
-    <section className="py-16 px-4">
+    <section id="contact" className="py-16 px-4">
       <div className="max-w-4xl mx-auto">
         {/* Contact Section */}
         <div className="text-center mb-12">
@@ -29,15 +29,17 @@ const ContactFooter = () => {
           </h2>
           <p className="text-lg text-gray-300 mb-4"></p>
           <div className="w-24 h-1 bg-white mx-auto rounded-full mb-8"></div>
-          
+
           {/* Email Section */}
           <div className="bg-slate-800/50 border border-blue-500/20 backdrop-blur-sm rounded-xl p-8 max-w-md mx-auto">
             <div className="flex items-center justify-center mb-4">
               <Mail className="w-6 h-6 text-blue-300 mr-2" />
-              <span className="text-lg text-gray-300">Get in touch</span>
+              <div className="flex flex-row gap-2">
+                <span className="text-lg text-gray-300">Get in touch</span>
+              </div>
             </div>
-            
-            <div className="flex items-center justify-between bg-slate-700/50 rounded-lg p-4 mb-4">
+
+            <div className="flex items-center justify-center bg-slate-700/50 rounded-lg p-4 mb-4">
               <span className="text-white font-mono text-sm md:text-base break-all">
                 {email}
               </span>
@@ -57,7 +59,7 @@ const ContactFooter = () => {
                 )}
               </Button>
             </div>
-            
+
             {copied && (
               <p className="text-green-400 text-sm animate-fade-in">
                 Email copied to clipboard!

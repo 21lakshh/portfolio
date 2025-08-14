@@ -30,6 +30,10 @@ export function NavbarHome() {
       name: "Projects",
       link: "#projects",
     },
+    {
+      name: "Ask Me",
+      link: "#ask-me",
+    },
   ];
 
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -42,8 +46,7 @@ export function NavbarHome() {
           <NavbarLogo />
           <NavItems items={navItems} />
           <div className="flex items-center gap-4">
-            <NavbarButton variant="secondary">Ask me</NavbarButton>
-            <NavbarButton variant="primary">Contact Me</NavbarButton>
+            <NavbarButton variant="secondary" href="#contact">Contact Me</NavbarButton>
           </div>
         </NavBody>
 

@@ -137,7 +137,7 @@ export default function AskMe() {
   };
 
   return (
-    <section className="min-h-screen flex items-center justify-center px-4 py-10">
+    <section id="ask-me" className="min-h-screen flex items-center justify-center px-4 py-10">
       <div className="max-w-4xl mx-auto w-full">
         {/* Section Title */}
         <div className="text-center mb-8">

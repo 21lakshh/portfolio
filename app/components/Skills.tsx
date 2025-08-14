@@ -4,7 +4,7 @@ import { BACKEND_STACKS, FRONTEND_STACKS, stacksProps } from "./constants/stack"
 
 const Skills = () => {
   return (
-    <section className="flex items-center justify-center px-4 py-4">
+    <section id="skills" className="flex items-center justify-center px-4 py-4">
       <div className="max-w-7xl mx-auto w-full">
         <div className="w-full space-y-4">
           <div className="space-y-6">
