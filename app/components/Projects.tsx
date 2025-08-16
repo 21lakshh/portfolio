@@ -168,7 +168,7 @@ export default function Projects() {
       status: "not-deployed"
     },
     {
-      image: "/ToolRouter.png",
+      image: "/Toolrouter.png",
       title: "Tool Router",
       description: "This project demonstrates a comprehensive solution to measure the accuracy of correct MCP tool selection when dealing with multilingual inputs (Hindi + English text)",
       githubLink: "https://github.com/21lakshh/Tool-Router",
