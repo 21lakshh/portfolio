@@ -4,7 +4,7 @@ import { pdfLoader } from '@/app/lib/langchain/loader';
 import { PdfSpiltter } from '@/app/lib/langchain/splitter';
 import { embedder } from '@/app/lib/langchain/embedder';
 
-const groq = new Groq({ apiKey: process.env.NEXT_PUBLIC_GROQ_API_KEY });
+const groq = new Groq({ apiKey: process.env.GROQ_API_KEY });
 
 const SYSTEM_PROMPT = `You are a highly specialized AI assistant for Lakshya Paliwal's portfolio. Your ONLY function is to answer questions about his professional background, projects, and skills, based exclusively on the provided context.
 
@@ -15,7 +15,22 @@ You MUST follow these rules strictly:
 4.  Do NOT hallucinate, guess, or provide any information from outside the context given to you.
 5.  Keep answers concise and to the point.`;
 
+const requiredEnvVars = [
+    'GROQ_API_KEY',
+    'GOOGLE_API_KEY',
+    'QDRANT_URL',
+    'QDRANT_API_KEY',
+    'QDRANT_COLLECTION_NAME',
+];
+
 export async function POST(request: NextRequest) {
+    const missingEnvVars = requiredEnvVars.filter((envVar) => !process.env[envVar]);
+    if (missingEnvVars.length > 0) {
+        const errorMessage = `Missing required environment variables: ${missingEnvVars.join(', ')}`;
+        console.error(errorMessage);
+        return NextResponse.json({ error: errorMessage }, { status: 500 });
+    }
+
     try {
         const body = await request.json();
         const question: string = body.query;
@@ -58,12 +73,28 @@ export async function POST(request: NextRequest) {
             model: "meta-llama/llama-4-maverick-17b-128e-instruct",
         });
 
-        const answer = completion.choices[0].message.content;
+        const answer = completion.choices[0]?.message?.content;
+
+        if (!answer) {
+            console.error('Groq API returned no answer');
+            return NextResponse.json({ error: 'Failed to get a response from the AI model.' }, { status: 500 });
+        }
 
         return NextResponse.json({ answer });
 
     } catch (error) {
-        console.error(error);
-        return NextResponse.json({ error: 'An internal server error occurred' }, { status: 500 });
+        console.error('[CHAT_API_ERROR]', error);
+
+        if (error instanceof Groq.APIError) {
+            return NextResponse.json({ error: 'Error from AI service provider.' }, { status: 500 });
+        }
+        if (error instanceof SyntaxError) {
+            return NextResponse.json({ error: 'Invalid request body.' }, { status: 400 });
+        }
+        if (error instanceof Error) {
+            return NextResponse.json({ error: 'An error occurred while processing your request.' }, { status: 500 });
+        }
+        
+        return NextResponse.json({ error: 'An unknown internal server error occurred' }, { status: 500 });
     }
 }
