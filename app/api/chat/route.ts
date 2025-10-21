@@ -3,6 +3,7 @@ import { Groq } from 'groq-sdk';
 import { pdfLoader } from '@/app/lib/langchain/loader';
 import { PdfSpiltter } from '@/app/lib/langchain/splitter';
 import { embedder } from '@/app/lib/langchain/embedder';
+import path from 'path';
 
 const groq = new Groq({ apiKey: process.env.GROQ_API_KEY });
 
@@ -40,11 +41,18 @@ export async function POST(request: NextRequest) {
             return NextResponse.json({ error: 'Query parameter "query" is required in the request body' }, { status: 400 });
         }
 
-        const doc = await pdfLoader("AboutLaksh.pdf");
-        const spilitDoc = await PdfSpiltter(doc);
-        const dbData = await embedder(spilitDoc);
-        const relevantChunks = await dbData.similaritySearch(question, 3);
-        const context = relevantChunks.map((chunk) => chunk.pageContent).join('\n\n');
+        let context = '';
+        try {
+            const filePath = path.join(process.cwd(), 'public', 'AboutLaksh.pdf');
+            const doc = await pdfLoader(filePath);
+            const spilitDoc = await PdfSpiltter(doc);
+            const dbData = await embedder(spilitDoc);
+            const relevantChunks = await dbData.similaritySearch(question, 3);
+            context = relevantChunks.map((chunk) => chunk.pageContent).join('\n\n');
+        } catch (e) {
+            console.error('Error during document processing for RAG:', e);
+            throw new Error('Failed to process documents for RAG.');
+        }
         
         const messages: any[] = [
             {
