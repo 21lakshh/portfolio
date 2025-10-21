@@ -4,7 +4,7 @@ import { pdfLoader } from '@/app/lib/langchain/loader';
 import { PdfSpiltter } from '@/app/lib/langchain/splitter';
 import { embedder } from '@/app/lib/langchain/embedder';
 
-const groq = new Groq({ apiKey: process.env.GROQ_API_KEY });
+const groq = new Groq({ apiKey: process.env.NEXT_PUBLIC_GROQ_API_KEY });
 
 const SYSTEM_PROMPT = `You are a highly specialized AI assistant for Lakshya Paliwal's portfolio. Your ONLY function is to answer questions about his professional background, projects, and skills, based exclusively on the provided context.
 
