@@ -21,7 +21,7 @@ export function FloatingDockDemo() {
     {
       title: "Resume",
       icon: <IconFile className="h-full w-full text-blue-300 hover:text-blue-200 transition-colors duration-300" />,
-      href: "https://drive.google.com/file/d/1Bh0y6lDLgjsJvUrb34bmaUjUZFqJSdRM/view?usp=sharing",
+      href: "https://drive.google.com/file/d/1fbY-dw37k2LJnr64Okzbiyc0lf6hVdj2/view?usp=sharing",
     },
     {
       title: "LinkedIn",
