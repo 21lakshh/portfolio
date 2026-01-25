@@ -1,7 +1,16 @@
 'use client'
-import { FaLinkedin, FaXTwitter, FaGithub } from "react-icons/fa6";
+import { FaLinkedin, FaXTwitter, FaGithub, FaSpotify } from "react-icons/fa6";
 import { IoMdMail } from "react-icons/io";
 import { useHapticFeedback } from '@/hooks/useHapticFeedback';
+import Link from 'next/link';
+import Image from 'next/image';
+
+interface RecentTrack {
+  title: string;
+  artist: string;
+  url: string;
+  albumArt: string;
+}
 
 interface ReachoutProps {
   title?: string
@@ -12,6 +21,7 @@ interface ReachoutProps {
     linkedin?: string
     mail?: string
   }
+  recentTrack?: RecentTrack
 }
 
 export default function Reachout({
@@ -22,7 +32,8 @@ export default function Reachout({
     github: "https://github.com/21lakshh",
     linkedin: "https://www.linkedin.com/in/lakshya-paliwal-67a5222aa/",
     mail: "mailto:2005lakshyapaliwal@gmail.com",
-  }
+  },
+  recentTrack
 }: ReachoutProps) {
   const { triggerHaptic, isMobile } = useHapticFeedback();
 
@@ -106,6 +117,39 @@ export default function Reachout({
           )}
         
         </div>
+
+        {recentTrack && (
+           <div className="mt-8 mb-4">
+              <p className="opacity-40 text-sm mb-3">Here's what I've been <Link href="/listening" className="underline">listening to lately</Link></p>
+              <Link 
+                href="/listening"
+                className="group flex items-center gap-4 p-3 rounded-xl bg-gray-50 dark:bg-neutral-900/50 border border-gray-100 dark:border-white/5 hover:bg-gray-100 dark:hover:bg-neutral-800/50 transition-all duration-300 w-full sm:w-auto max-w-sm overflow-hidden"
+              >
+                 <div className="relative h-12 w-12 flex-shrink-0 rounded-md overflow-hidden">
+                    <Image
+                      src={recentTrack.albumArt}
+                      alt={recentTrack.title}
+                      fill
+                      className="object-cover group-hover:scale-105 transition-transform duration-500"
+                    />
+                 </div>
+                 <div className="flex-grow min-w-0 text-left">
+                    <div className="flex items-center gap-2">
+                       <FaSpotify size={16} className="text-[#1DB954] flex-shrink-0" />
+                       <p className="text-sm font-medium truncate dark:text-gray-200 font-[family-name:var(--font-instrument-serif)]">
+                          {recentTrack.title}
+                       </p>
+                    </div>
+                    <p className="text-xs text-gray-500 truncate dark:text-gray-400 pl-[24px]">
+                       {recentTrack.artist}
+                    </p>
+                 </div>
+                 <div className="text-xs text-gray-400 px-2 opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap">
+                    View all →
+                 </div>
+              </Link>
+           </div>
+        )}
         
         {/* Footer Section */}
         <div className="mt-6 sm:mt-8 pt-4 sm:pt-6 border-t border-gray-200 dark:border-gray-800">

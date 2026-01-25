@@ -15,6 +15,7 @@ import TechStackMarquee from './TechStackMarquee'
 import { Reveal } from './Reveal'
 import { MasonryProjectCard } from './MasonryProjectCard'
 import { projects } from '@/data/projects'
+import spotifyData from '@/data/spotify.json'
 import { FileText } from 'lucide-react'
 import { handleSmoothScroll } from './ui/ScrollAnimations'
 
@@ -212,6 +213,7 @@ export default function NewHeroSection() {
                   <Reachout
                     title="Let's connect"
                     subtitle="Find me on these platforms"
+                    recentTrack={spotifyData[0]}
                   />
                 </div>
               </Reveal>

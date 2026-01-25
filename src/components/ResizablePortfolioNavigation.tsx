@@ -26,6 +26,7 @@ export default function ResizablePortfolioNavigation() {
     { name: 'proof-of-work', link: '/projects' },
     { name: 'blogs', link: '/blogs' },
     { name: 'ask-me', link: '/ask-me' },
+    { name: 'listening', link: '/listening' },
   ];
 
   const mobileNavItems = [
@@ -33,6 +34,7 @@ export default function ResizablePortfolioNavigation() {
     { name: 'proof-of-work', link: '/projects' },
     { name: 'blogs', link: '/blogs' },
     { name: 'ask-me', link: '/ask-me' },
+    { name: 'listening', link: '/listening' },
   ];
 
   return (
