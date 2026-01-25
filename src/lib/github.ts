@@ -1,7 +1,7 @@
 import { Octokit } from '@octokit/rest'
 
 const octokit = new Octokit({
-  auth: process.env.GITHUB_TOKEN || process.env.NEXT_PUBLIC_GITHUB_TOKEN,
+  auth: process.env.GITHUB_TOKEN || process.env.NEXT_GITHUB_TOKEN,
 })
 
 export interface GitHubPullRequest {
@@ -75,7 +75,7 @@ function formatDate(dateString: string): string {
 
 
 export async function fetchUserPullRequests(username: string, limit: number = 50): Promise<ProcessedContribution[]> {
-  const token = process.env.GITHUB_TOKEN || process.env.NEXT_PUBLIC_GITHUB_TOKEN
+  const token = process.env.GITHUB_TOKEN || process.env.NEXT_GITHUB_TOKEN
   
   if (!token) {
     return []
