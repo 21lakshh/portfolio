@@ -42,7 +42,6 @@ export default function AskMe() {
   // Smooth scroll to bottom on new messages
   useEffect(() => {
     if (scrollAreaRef.current) {
-      const scrollOptions: ScrollIntoViewOptions = { behavior: "smooth", block: "end" };
       // Using a small timeout to ensure DOM has updated
       setTimeout(() => {
         scrollAreaRef.current?.scrollTo({

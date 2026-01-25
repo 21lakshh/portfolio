@@ -80,6 +80,7 @@ export async function POST(request: NextRequest) {
                     dbData = await embedder(spilitDoc);
                 }
             } catch (collectionError) {
+                console.error('Collection check error:', collectionError);
                 // Collection doesn't exist, create and populate it
                 const filePath = path.join(process.cwd(), 'public', 'AboutLaksh.pdf');
                 const doc = await pdfLoader(filePath);

@@ -17,7 +17,6 @@ import { MasonryProjectCard } from './MasonryProjectCard'
 import { projects } from '@/data/projects'
 import { FileText } from 'lucide-react'
 import { handleSmoothScroll } from './ui/ScrollAnimations'
-import { SparklesText } from './ui/sparkles-text'
 
 export default function NewHeroSection() {
   return (
