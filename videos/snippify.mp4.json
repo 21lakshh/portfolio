@@ -1,0 +1,20 @@
+{
+  "status": "ready",
+  "originalFilePath": "videos\\snippify.mp4",
+  "provider": "mux",
+  "providerMetadata": {
+    "mux": {
+      "assetId": "9aLtHReSvNwp9qydJcPm1xtQy7JMI7J7kfYx6Lhp01h00",
+      "playbackId": "6tPIack3ASgfG00wB4t02Zy2P9aq8DrU01IGG01x2dLDTGk"
+    }
+  },
+  "size": 0,
+  "sources": [
+    {
+      "src": "https://stream.mux.com/6tPIack3ASgfG00wB4t02Zy2P9aq8DrU01IGG01x2dLDTGk.m3u8",
+      "type": "application/x-mpegURL"
+    }
+  ],
+  "poster": "https://image.mux.com/6tPIack3ASgfG00wB4t02Zy2P9aq8DrU01IGG01x2dLDTGk/thumbnail.webp",
+  "blurDataURL": ""
+}
