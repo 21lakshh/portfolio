@@ -1,5 +1,40 @@
 [
   {
+    "title": "Thinking of You",
+    "artist": "JYLPO",
+    "url": "https://open.spotify.com/track/4MJQr01q50SFFwYbnZQgar",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273ca0d0b131dc0fffb2d400d38",
+    "playedAt": "2026-01-25T20:46:37.332Z"
+  },
+  {
+    "title": "Jocelyn Flores",
+    "artist": "XXXTENTACION",
+    "url": "https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273203c89bd4391468eea4cc3f5",
+    "playedAt": "2026-01-25T20:44:07.259Z"
+  },
+  {
+    "title": "True Love",
+    "artist": "Kanye West, XXXTENTACION",
+    "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27353edd144e063daae819190e5",
+    "playedAt": "2026-01-25T20:42:07.036Z"
+  },
+  {
+    "title": "Champion",
+    "artist": "Kanye West",
+    "url": "https://open.spotify.com/track/4UQMOPSUVJVicIQzjAcRRZ",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+    "playedAt": "2026-01-25T20:39:36.992Z"
+  },
+  {
+    "title": "Flashing Lights",
+    "artist": "Kanye West, Dwele",
+    "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+    "playedAt": "2026-01-25T20:36:36.985Z"
+  },
+  {
     "title": "Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",
     "artist": "Metro Boomin, A$AP Rocky, Roisee",
     "url": "https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW",
@@ -33,40 +68,5 @@
     "url": "https://open.spotify.com/track/6iqEHUlAqfwEhLitzM0Z3O",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b2738991bd94af8bf884f484f41a",
     "playedAt": "2026-01-25T15:44:38.028Z"
-  },
-  {
-    "title": "WAIT FOR U (feat. Drake & Tems)",
-    "artist": "Future, Drake, Tems",
-    "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2731692599c8c0f98e470c68106",
-    "playedAt": "2026-01-25T15:41:36.929Z"
-  },
-  {
-    "title": "her",
-    "artist": "JVKE",
-    "url": "https://open.spotify.com/track/6G9YlbU3ByPJQvOFDRdwyM",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273a0934c15232680a3afc9da6e",
-    "playedAt": "2026-01-25T15:37:39.165Z"
-  },
-  {
-    "title": "Save Your Tears (with Ariana Grande) (Remix)",
-    "artist": "The Weeknd, Ariana Grande",
-    "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273c6af5ffa661a365b77df6ef6",
-    "playedAt": "2026-01-25T09:48:48.988Z"
-  },
-  {
-    "title": "Dooron Dooron",
-    "artist": "Paresh Pahuja, Shiv Tandan, Meghdeep Bose",
-    "url": "https://open.spotify.com/track/0q5e5KtUOhYQujmhLP0pKd",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2739fd839ed5ae2fd87ee8ac923",
-    "playedAt": "2026-01-25T09:45:49.576Z"
-  },
-  {
-    "title": "Taarifein",
-    "artist": "Darshan Raval",
-    "url": "https://open.spotify.com/track/6iqEHUlAqfwEhLitzM0Z3O",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2738991bd94af8bf884f484f41a",
-    "playedAt": "2026-01-24T05:49:42.197Z"
   }
 ]
