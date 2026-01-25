@@ -22,7 +22,7 @@ jobs:
           node-version: '22'
 
       - name: Install Dependencies
-        run: npm install dotenv@16.4.5
+        run: pnpm config set auto-install-peers true && pnpm add dotenv@16.4.5
 
       - name: Run Fetch Script and update tracks
         env:
