@@ -1,0 +1,20 @@
+{
+  "status": "ready",
+  "originalFilePath": "videos\\realm.mp4",
+  "provider": "mux",
+  "providerMetadata": {
+    "mux": {
+      "assetId": "LWa59rxnOme00YF57beyzCB9DKQw7dg944L4UN01hmREs",
+      "playbackId": "Ibhx34TtwKMHk1501PFs00i2tjuFvxp1oOinstUhr600OA"
+    }
+  },
+  "size": 0,
+  "sources": [
+    {
+      "src": "https://stream.mux.com/Ibhx34TtwKMHk1501PFs00i2tjuFvxp1oOinstUhr600OA.m3u8",
+      "type": "application/x-mpegURL"
+    }
+  ],
+  "poster": "https://image.mux.com/Ibhx34TtwKMHk1501PFs00i2tjuFvxp1oOinstUhr600OA/thumbnail.webp",
+  "blurDataURL": ""
+}

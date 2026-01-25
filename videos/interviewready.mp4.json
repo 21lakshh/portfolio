@@ -1,0 +1,20 @@
+{
+  "status": "ready",
+  "originalFilePath": "videos\\interviewready.mp4",
+  "provider": "mux",
+  "providerMetadata": {
+    "mux": {
+      "assetId": "2WYrloA1vp2p02JUrVeqf1yWvZCjvY6PnEdkhSsOtSto",
+      "playbackId": "idhOcp4edkOMmIa58lssbzMklcU2Q02uIK1fYDg01G00Ac"
+    }
+  },
+  "size": 0,
+  "sources": [
+    {
+      "src": "https://stream.mux.com/idhOcp4edkOMmIa58lssbzMklcU2Q02uIK1fYDg01G00Ac.m3u8",
+      "type": "application/x-mpegURL"
+    }
+  ],
+  "poster": "https://image.mux.com/idhOcp4edkOMmIa58lssbzMklcU2Q02uIK1fYDg01G00Ac/thumbnail.webp",
+  "blurDataURL": ""
+}

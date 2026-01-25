@@ -1,0 +1,20 @@
+{
+  "status": "ready",
+  "originalFilePath": "videos\\finfluenzz.mp4",
+  "provider": "mux",
+  "providerMetadata": {
+    "mux": {
+      "assetId": "5hgJF7xcaVoypXKLlMnRjZyswSAFyarf01nN001T5EXb4",
+      "playbackId": "ouZaShyeYZ3x27gDuYWfqxNTEuCVtfOPxaX9SOzAmDM"
+    }
+  },
+  "size": 0,
+  "sources": [
+    {
+      "src": "https://stream.mux.com/ouZaShyeYZ3x27gDuYWfqxNTEuCVtfOPxaX9SOzAmDM.m3u8",
+      "type": "application/x-mpegURL"
+    }
+  ],
+  "poster": "https://image.mux.com/ouZaShyeYZ3x27gDuYWfqxNTEuCVtfOPxaX9SOzAmDM/thumbnail.webp",
+  "blurDataURL": ""
+}
