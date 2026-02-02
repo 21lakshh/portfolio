@@ -1,5 +1,47 @@
 [
   {
+    "title": "WAIT FOR U (feat. Drake & Tems)",
+    "artist": "Future, Drake, Tems",
+    "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2731692599c8c0f98e470c68106",
+    "playedAt": "2026-02-01T20:32:21.820Z"
+  },
+  {
+    "title": "E85",
+    "artist": "Don Toliver",
+    "url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27322d78c55313a187559efd93b",
+    "playedAt": "2026-02-01T20:29:22.319Z"
+  },
+  {
+    "title": "ARE WE STILL FRIENDS?",
+    "artist": "Tyler, The Creator",
+    "url": "https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27330a635de2bb0caa4e26f6abb",
+    "playedAt": "2026-02-01T20:25:24.964Z"
+  },
+  {
+    "title": "dodger blue (feat. wallie the sensei, siete7x, roddy ricch)",
+    "artist": "Kendrick Lamar, Wallie the Sensei, Siete7x, Roddy Ricch",
+    "url": "https://open.spotify.com/track/4K1Pg0FLno1ltzX3jeqT83",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58",
+    "playedAt": "2026-02-01T15:52:52.459Z"
+  },
+  {
+    "title": "Street Lights",
+    "artist": "Kanye West",
+    "url": "https://open.spotify.com/track/6j8gTlbhj9KJSeypNcNAS9",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18",
+    "playedAt": "2026-02-01T15:50:52.309Z"
+  },
+  {
+    "title": "Ishq Hai",
+    "artist": "Anurag Saikia, Raj Shekhar, Romy, Amarabha Banerjee, Varun Jain, Madhubanti Bagchi, Mismatched - Cast",
+    "url": "https://open.spotify.com/track/3vCzLB6kS2lGcIpm1OOUsy",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27379f4a87c23143f0abb14c279",
+    "playedAt": "2026-02-01T11:47:05.266Z"
+  },
+  {
     "title": "Heathens",
     "artist": "Twenty One Pilots",
     "url": "https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr",
@@ -26,47 +68,5 @@
     "url": "https://open.spotify.com/track/5xEDRg4tI8ixoAvbrupsEg",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b27322d78c55313a187559efd93b",
     "playedAt": "2026-01-31T12:58:45.261Z"
-  },
-  {
-    "title": "E85",
-    "artist": "Don Toliver",
-    "url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27322d78c55313a187559efd93b",
-    "playedAt": "2026-01-31T12:55:14.833Z"
-  },
-  {
-    "title": "Only One",
-    "artist": "Kanye West, Paul McCartney",
-    "url": "https://open.spotify.com/track/0j35X8cTq543QDYLOyqB8W",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273f2209e63affaa48af1b0a3b5",
-    "playedAt": "2026-01-31T12:50:18.143Z"
-  },
-  {
-    "title": "Silent Hill",
-    "artist": "Kendrick Lamar, Kodak Black",
-    "url": "https://open.spotify.com/track/3lzUeaCbcCDB5IXYfqWRlF",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f",
-    "playedAt": "2026-01-31T10:33:17.104Z"
-  },
-  {
-    "title": "LIVE LIKE THIS",
-    "artist": "Quadeca",
-    "url": "https://open.spotify.com/track/5xESOLGaSOTg4J5Q5M06S9",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273e44d188269d684eee7ae8726",
-    "playedAt": "2026-01-31T09:41:44.748Z"
-  },
-  {
-    "title": "ASTROTHUNDER",
-    "artist": "Travis Scott",
-    "url": "https://open.spotify.com/track/4MXhiYIRDMGAuvZc5IFTwC",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32",
-    "playedAt": "2026-01-31T09:39:45.107Z"
-  },
-  {
-    "title": "ASTROTHUNDER",
-    "artist": "Travis Scott",
-    "url": "https://open.spotify.com/track/4MXhiYIRDMGAuvZc5IFTwC",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32",
-    "playedAt": "2026-01-31T07:31:10.965Z"
   }
 ]
