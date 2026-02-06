@@ -110,7 +110,7 @@ export default function NewHeroSection() {
                   {/* Simple Resume Button */}
                   <div className="flex items-center mt-2">
                     <a 
-                      href="https://drive.google.com/file/d/1L7NBW5xQke9v_LI10I84k0KnxR8qtLZJ/view?usp=sharing"
+                      href="https://drive.google.com/file/d/1ag0ULCK-_CBJMltYHwhQzED_fV_b7C7H/view?usp=sharing"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="inline-flex items-center gap-2 px-3 py-1.5 text-xs sm:text-sm font-medium text-neutral-500 dark:text-neutral-400 bg-neutral-100 dark:bg-neutral-800/50 hover:bg-neutral-200 dark:hover:bg-neutral-800 rounded-md transition-all duration-200"

@@ -30,6 +30,8 @@ export default function ExperienceContent() {
       description: "Developed and deployed cutting-edge solutions, including multi-select preferences, browser-based video recording, and API integrations like WhatsApp/email reminders. Optimized workflows with autosave features and real-time scraping, leveraging Next.js, Supabase, and Cloudflare workers.",
       achievements: [
         "Refactored a vibe-coded legacy codebase into a clean, modular, and production-grade architecture, improving performance, maintainability, and developer experience.",
+        "Led the migration of a 15-year-old WordPress website to Next.js while preserving SEO integrity, including URLs, structured data (JSON-LD), Open Graph, and Twitter metadata, ensuring zero traffic or ranking loss.",
+        "Designed and implemented a Pub/Sub + Webhook-based automation pipeline to ingest new YouTube uploads from the organization's official channel, automatically syncing videos to the database and rendering them on the main website in real time."
       ],
       href: "https://impactvolunteer.com/",
       logoUrl: "/images/realresponsenet.jpeg",
