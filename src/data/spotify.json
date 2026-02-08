@@ -1,5 +1,40 @@
 [
   {
+    "title": "Lae Dooba",
+    "artist": "Sunidhi Chauhan, Manoj Muntashir",
+    "url": "https://open.spotify.com/track/5rpxVbgMMeCOLhhop1DVKj",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273c9f837562641e205fd81a642",
+    "playedAt": "2026-02-07T18:56:28.566Z"
+  },
+  {
+    "title": "Uff Teri Adaa",
+    "artist": "Shankar Mahadevan, Alyssa Mendonsa",
+    "url": "https://open.spotify.com/track/0og9wKFGgFFNQnrBe7eisG",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2730e0eae488b99b7c7b901f659",
+    "playedAt": "2026-02-07T16:48:49.017Z"
+  },
+  {
+    "title": "Arz Kiya Hai | Coke Studio Bharat",
+    "artist": "Anuv Jain",
+    "url": "https://open.spotify.com/track/1bMkimTb47umgNP6xCi4A1",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27325fa2d19b2363a9520a34409",
+    "playedAt": "2026-02-07T16:43:47.020Z"
+  },
+  {
+    "title": "bargad",
+    "artist": "sufr, Arpit Bala, toorjo dey",
+    "url": "https://open.spotify.com/track/0Q9rHyEG7lME4y2Fqtuxgl",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27369ecc359541c8a49aae7716f",
+    "playedAt": "2026-02-07T16:22:47.224Z"
+  },
+  {
+    "title": "Ik Kudi",
+    "artist": "wolf.cryman, Arpit Bala",
+    "url": "https://open.spotify.com/track/0sYaepGtF2dw1EFO8oRaG3",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273deb8c1a13a3016831fe49806",
+    "playedAt": "2026-02-07T16:20:22.442Z"
+  },
+  {
     "title": "She",
     "artist": "Tyler, The Creator, Frank Ocean",
     "url": "https://open.spotify.com/track/5WzfCu5fhgm7jv896EN1Md",
@@ -33,40 +68,5 @@
     "url": "https://open.spotify.com/track/0y8Pu7x5jXgUjOIJvQIF5L",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b2736ed9aef791159496b286179f",
     "playedAt": "2026-02-06T15:31:00.243Z"
-  },
-  {
-    "title": "Reborn",
-    "artist": "KIDS SEE GHOSTS",
-    "url": "https://open.spotify.com/track/4RVbK6cV0VqWdpCDcx3hiT",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273013c00ee367dd85396f79c82",
-    "playedAt": "2026-02-06T15:26:38.476Z"
-  },
-  {
-    "title": "Apple Pie",
-    "artist": "Travis Scott",
-    "url": "https://open.spotify.com/track/6scpNkWEmUxmKY7nYjVLsX",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273d3b5affd8824b4ed301b7137",
-    "playedAt": "2026-02-06T15:22:42.582Z"
-  },
-  {
-    "title": "Hurricane",
-    "artist": "Kanye West, The Weeknd, Lil Baby",
-    "url": "https://open.spotify.com/track/6Hfu9sc7jvv6coyy2LlzBF",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd",
-    "playedAt": "2026-02-06T15:17:36.987Z"
-  },
-  {
-    "title": "NO TRESPASSING",
-    "artist": "A$AP Rocky",
-    "url": "https://open.spotify.com/track/7eEnuNVAHQXEwg18zZnmdL",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-    "playedAt": "2026-02-06T15:13:36.991Z"
-  },
-  {
-    "title": "SKY CITY",
-    "artist": "¥$, Kanye West, Ty Dolla $ign",
-    "url": "https://open.spotify.com/track/7a0tTD7xdvKsNcJfMIDWp4",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273fb9cedd86a3d08dc053a550d",
-    "playedAt": "2026-02-06T15:10:39.383Z"
   }
 ]
