@@ -1,5 +1,19 @@
 [
   {
+    "title": "Through The Wire",
+    "artist": "Kanye West",
+    "url": "https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78",
+    "playedAt": "2026-02-14T11:48:48.681Z"
+  },
+  {
+    "title": "Flashing Lights",
+    "artist": "Kanye West, Dwele",
+    "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+    "playedAt": "2026-02-14T08:27:11.709Z"
+  },
+  {
     "title": "E85",
     "artist": "Don Toliver",
     "url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ",
@@ -54,19 +68,5 @@
     "url": "https://open.spotify.com/track/16yVaWo0Gmvs2wlnmJbcH7",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
     "playedAt": "2026-02-13T13:41:44.809Z"
-  },
-  {
-    "title": "All The Signs (feat. Teezo Touchdown)",
-    "artist": "Don Toliver, Teezo Touchdown",
-    "url": "https://open.spotify.com/track/3Hb28pse82bhnmW9sjTahL",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-    "playedAt": "2026-02-13T13:39:50.739Z"
-  },
-  {
-    "title": "Secondhand (feat. Rema)",
-    "artist": "Don Toliver, Rema",
-    "url": "https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-    "playedAt": "2026-02-13T13:36:14.830Z"
   }
 ]
