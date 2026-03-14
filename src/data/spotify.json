@@ -1,5 +1,54 @@
 [
   {
+    "title": "We Major",
+    "artist": "Kanye West, Nas, Really Doe",
+    "url": "https://open.spotify.com/track/46fk9wjYcPm0sgym2b7EEE",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2",
+    "playedAt": "2026-03-13T10:37:20.345Z"
+  },
+  {
+    "title": "PROMOTION",
+    "artist": "¥$, Future",
+    "url": "https://open.spotify.com/track/5fvOIwB9AWT2iplRw6jYqm",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273cccce396dd7f912a4a725634",
+    "playedAt": "2026-03-13T07:31:51.390Z"
+  },
+  {
+    "title": "I Love Kanye",
+    "artist": "Kanye West",
+    "url": "https://open.spotify.com/track/5CGS4UovzA7ftCJkLVXQju",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
+    "playedAt": "2026-03-13T07:29:21.183Z"
+  },
+  {
+    "title": "LORD LIFT ME UP",
+    "artist": "DONDA, Kanye West, Ye",
+    "url": "https://open.spotify.com/track/1RopXkbl5fE7gf7fjQIKRf",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2737cd12a9cfd038d6f23c84a86",
+    "playedAt": "2026-03-13T07:27:51.264Z"
+  },
+  {
+    "title": "Gold Digger",
+    "artist": "Kanye West, Jamie Foxx",
+    "url": "https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2",
+    "playedAt": "2026-03-13T07:25:51.071Z"
+  },
+  {
+    "title": "Gold Digger",
+    "artist": "Kanye West, Jamie Foxx",
+    "url": "https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2",
+    "playedAt": "2026-03-13T07:24:54.933Z"
+  },
+  {
+    "title": "No Pressure",
+    "artist": "KSI",
+    "url": "https://open.spotify.com/track/3AoXF9wWBi6IBt7yOoVV2A",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2734128a48270cd407a81fef739",
+    "playedAt": "2026-03-13T04:08:44.435Z"
+  },
+  {
     "title": "PUNK ROCKY",
     "artist": "A$AP Rocky",
     "url": "https://open.spotify.com/track/1AXsHbdIYx2OyKmdOcIL5T",
@@ -19,54 +68,5 @@
     "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b273c6af5ffa661a365b77df6ef6",
     "playedAt": "2026-03-12T15:13:41.511Z"
-  },
-  {
-    "title": "Save Your Tears (with Ariana Grande) (Remix)",
-    "artist": "The Weeknd, Ariana Grande",
-    "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273c6af5ffa661a365b77df6ef6",
-    "playedAt": "2026-03-12T15:01:14.106Z"
-  },
-  {
-    "title": "No Security",
-    "artist": "Baby Keem",
-    "url": "https://open.spotify.com/track/4LGFc5Vv5YlqTvWIa37CbG",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27308a27a15cf37664f0dab6ab7",
-    "playedAt": "2026-03-12T15:00:40.342Z"
-  },
-  {
-    "title": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
-    "artist": "Metro Boomin, Swae Lee, NAV, A Boogie Wit da Hoodie",
-    "url": "https://open.spotify.com/track/5rurggqwwudn9clMdcchxT",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2736ed9aef791159496b286179f",
-    "playedAt": "2026-03-12T10:25:09.639Z"
-  },
-  {
-    "title": "ROXANNE",
-    "artist": "Arizona Zervas",
-    "url": "https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273069a93617a916760ab88ffea",
-    "playedAt": "2026-03-12T05:06:15.284Z"
-  },
-  {
-    "title": "Counting Stars",
-    "artist": "OneRepublic",
-    "url": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2739e2f95ae77cf436017ada9cb",
-    "playedAt": "2026-03-12T04:45:39.713Z"
-  },
-  {
-    "title": "SKELETONS",
-    "artist": "Travis Scott",
-    "url": "https://open.spotify.com/track/6NMtzpDQBTOfJwMzgMX0zl",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32",
-    "playedAt": "2026-03-12T04:41:09.847Z"
-  },
-  {
-    "title": "DA WIZARD",
-    "artist": "Travis Scott",
-    "url": "https://open.spotify.com/track/3MG4uJgccswTKrjheG54eW",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273c9e25378bc8de02341f3db99",
-    "playedAt": "2026-03-12T04:38:40.142Z"
   }
 ]
