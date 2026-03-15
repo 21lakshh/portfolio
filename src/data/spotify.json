@@ -1,5 +1,54 @@
 [
   {
+    "title": "COFFEE BEAN",
+    "artist": "Travis Scott",
+    "url": "https://open.spotify.com/track/6vnfObZ4Ys70SBAtti1xZ9",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32",
+    "playedAt": "2026-03-14T15:04:59.519Z"
+  },
+  {
+    "title": "U DON’T KNOW ME LIKE THAT",
+    "artist": "Quadeca",
+    "url": "https://open.spotify.com/track/5K8lOqPnsWh9QNSgNBqhO2",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273f07737652b6102890b4b840d",
+    "playedAt": "2026-03-14T13:25:07.210Z"
+  },
+  {
+    "title": "Silent Hill",
+    "artist": "Kendrick Lamar, Kodak Black",
+    "url": "https://open.spotify.com/track/3lzUeaCbcCDB5IXYfqWRlF",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f",
+    "playedAt": "2026-03-14T13:21:07.197Z"
+  },
+  {
+    "title": "Come to Life",
+    "artist": "Kanye West",
+    "url": "https://open.spotify.com/track/5xvXeuxISyXJDRbZZf4uzd",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd",
+    "playedAt": "2026-03-14T13:16:36.696Z"
+  },
+  {
+    "title": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
+    "artist": "A$AP Rocky, Brent Faiyaz",
+    "url": "https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
+    "playedAt": "2026-03-14T13:11:36.699Z"
+  },
+  {
+    "title": "90210 (feat. Kacy Hill)",
+    "artist": "Travis Scott, Kacy Hill",
+    "url": "https://open.spotify.com/track/51EC3I1nQXpec4gDk0mQyP",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273d3b5affd8824b4ed301b7137",
+    "playedAt": "2026-03-14T13:05:36.897Z"
+  },
+  {
+    "title": "Tum Ho Toh",
+    "artist": "Iqlipse Nova, Prakriti Kakar",
+    "url": "https://open.spotify.com/track/2LUY01YYiSU1LxoyX1ERwQ",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273056bc9e3bbeb0ba9c21050d8",
+    "playedAt": "2026-03-14T11:24:28.009Z"
+  },
+  {
     "title": "We Major",
     "artist": "Kanye West, Nas, Really Doe",
     "url": "https://open.spotify.com/track/46fk9wjYcPm0sgym2b7EEE",
@@ -19,54 +68,5 @@
     "url": "https://open.spotify.com/track/5CGS4UovzA7ftCJkLVXQju",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
     "playedAt": "2026-03-13T07:29:21.183Z"
-  },
-  {
-    "title": "LORD LIFT ME UP",
-    "artist": "DONDA, Kanye West, Ye",
-    "url": "https://open.spotify.com/track/1RopXkbl5fE7gf7fjQIKRf",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2737cd12a9cfd038d6f23c84a86",
-    "playedAt": "2026-03-13T07:27:51.264Z"
-  },
-  {
-    "title": "Gold Digger",
-    "artist": "Kanye West, Jamie Foxx",
-    "url": "https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2",
-    "playedAt": "2026-03-13T07:25:51.071Z"
-  },
-  {
-    "title": "Gold Digger",
-    "artist": "Kanye West, Jamie Foxx",
-    "url": "https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2",
-    "playedAt": "2026-03-13T07:24:54.933Z"
-  },
-  {
-    "title": "No Pressure",
-    "artist": "KSI",
-    "url": "https://open.spotify.com/track/3AoXF9wWBi6IBt7yOoVV2A",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2734128a48270cd407a81fef739",
-    "playedAt": "2026-03-13T04:08:44.435Z"
-  },
-  {
-    "title": "PUNK ROCKY",
-    "artist": "A$AP Rocky",
-    "url": "https://open.spotify.com/track/1AXsHbdIYx2OyKmdOcIL5T",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-    "playedAt": "2026-03-12T18:31:33.779Z"
-  },
-  {
-    "title": "Good Flirts (feat. Kendrick Lamar & Momo Boyd)",
-    "artist": "Baby Keem, Kendrick Lamar, Momo Boyd",
-    "url": "https://open.spotify.com/track/5sHeIGDbdzw8DeO57XZKIy",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27308a27a15cf37664f0dab6ab7",
-    "playedAt": "2026-03-12T15:22:36.664Z"
-  },
-  {
-    "title": "Save Your Tears (with Ariana Grande) (Remix)",
-    "artist": "The Weeknd, Ariana Grande",
-    "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273c6af5ffa661a365b77df6ef6",
-    "playedAt": "2026-03-12T15:13:41.511Z"
   }
 ]
