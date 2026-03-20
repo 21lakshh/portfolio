@@ -1,72 +1,72 @@
 [
   {
-    "title": "Through The Wire",
+    "title": "Homecoming",
+    "artist": "Lil Uzi Vert",
+    "url": "https://open.spotify.com/track/6vxU64pcIuQ38O015Zy4qj",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2735267529d83ab73cf102fcbbd",
+    "playedAt": "2026-03-19T15:26:52.136Z"
+  },
+  {
+    "title": "HIGHJACK",
+    "artist": "A$AP Rocky, Jessica Pratt",
+    "url": "https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273588dda00d43cd9b2566de08f",
+    "playedAt": "2026-03-19T14:23:33.613Z"
+  },
+  {
+    "title": "Not Like Us",
+    "artist": "Kendrick Lamar",
+    "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad",
+    "playedAt": "2026-03-19T14:19:33.475Z"
+  },
+  {
+    "title": "Not Like Us",
+    "artist": "Kendrick Lamar",
+    "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad",
+    "playedAt": "2026-03-19T14:16:10.579Z"
+  },
+  {
+    "title": "red sky",
+    "artist": "21 Savage, Tommy Newport, Mikky Ekko",
+    "url": "https://open.spotify.com/track/4yLyVdEqV790aIXyGif85v",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27369c2e8a818640b05fac2fdfd",
+    "playedAt": "2026-03-19T13:23:26.043Z"
+  },
+  {
+    "title": "Sweetheart",
+    "artist": "Pop Smoke, Fivio Foreign",
+    "url": "https://open.spotify.com/track/4mRbryKm81zbwfxUIPx16K",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273951fba9abe5f48e58231e1f6",
+    "playedAt": "2026-03-19T13:20:25.988Z"
+  },
+  {
+    "title": "Alright",
+    "artist": "Kendrick Lamar",
+    "url": "https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1",
+    "playedAt": "2026-03-19T13:17:56.203Z"
+  },
+  {
+    "title": "NEW MAGIC WAND",
+    "artist": "Tyler, The Creator",
+    "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27330a635de2bb0caa4e26f6abb",
+    "playedAt": "2026-03-19T13:13:56.051Z"
+  },
+  {
+    "title": "I Am A God",
     "artist": "Kanye West",
-    "url": "https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78",
-    "playedAt": "2026-03-18T04:26:56.741Z"
+    "url": "https://open.spotify.com/track/0HMCdlOPJkAGlB0MlSWIcO",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2731dacfbc31cc873d132958af9",
+    "playedAt": "2026-03-19T13:10:56.270Z"
   },
   {
-    "title": "BROKEN ROAD",
-    "artist": "DONDA, Kanye West, Ye",
-    "url": "https://open.spotify.com/track/4RXIqq6AWKGQIEXd9il5mB",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2737cd12a9cfd038d6f23c84a86",
-    "playedAt": "2026-03-18T04:23:26.522Z"
-  },
-  {
-    "title": "Ni**as In Paris",
-    "artist": "JAŸ-Z, Kanye West",
-    "url": "https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27352e61456aa4995ba48d94e30",
-    "playedAt": "2026-03-18T04:13:16.197Z"
-  },
-  {
-    "title": "No More Parties In LA",
-    "artist": "Kanye West",
-    "url": "https://open.spotify.com/track/0zLClc0emc6qUeV1p5nc99",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
-    "playedAt": "2026-03-18T04:09:46.333Z"
-  },
-  {
-    "title": "Saint Pablo",
-    "artist": "Kanye West",
-    "url": "https://open.spotify.com/track/1o0kWPueYo94LIjPYOE5Nf",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
-    "playedAt": "2026-03-18T04:03:16.245Z"
-  },
-  {
-    "title": "Famous",
-    "artist": "Kanye West",
-    "url": "https://open.spotify.com/track/19a3JfW8BQwqHWUMbcqSx8",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
-    "playedAt": "2026-03-18T03:57:16.297Z"
-  },
-  {
-    "title": "Father Stretch My Hands Pt. 1",
-    "artist": "Kanye West",
-    "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
-    "playedAt": "2026-03-18T03:53:47.221Z"
-  },
-  {
-    "title": "fukumean",
-    "artist": "Gunna",
-    "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2731e0b04676fae1205f4853706",
-    "playedAt": "2026-03-17T18:42:02.595Z"
-  },
-  {
-    "title": "LEMONHEAD (feat. 42 Dugg)",
-    "artist": "Tyler, The Creator, 42 Dugg",
-    "url": "https://open.spotify.com/track/5fbHRCsGpFIOLRtlhCRFDR",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273940aa635eea98719f6ca4ad9",
-    "playedAt": "2026-03-17T15:58:57.400Z"
-  },
-  {
-    "title": "We Paid (feat. 42 Dugg)",
-    "artist": "Lil Baby, 42 Dugg",
-    "url": "https://open.spotify.com/track/6gxKUmycQX7uyMwJcweFjp",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27376a4577dd654bf457a4ad1f8",
-    "playedAt": "2026-03-17T15:56:27.164Z"
+    "title": "a life of pain",
+    "artist": "Baby Keem",
+    "url": "https://open.spotify.com/track/5wWufNs1j4v2HsL5IZ5Zlp",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273a97160f8731efb13153b358e",
+    "playedAt": "2026-03-19T13:06:56.212Z"
   }
 ]
