@@ -1,5 +1,19 @@
 [
   {
+    "title": "New Again",
+    "artist": "Kanye West",
+    "url": "https://open.spotify.com/track/75QktuEju5vz9lyXiLaUao",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd",
+    "playedAt": "2026-03-21T20:19:04.837Z"
+  },
+  {
+    "title": "Circus Circus Free$tyle",
+    "artist": "Baby Keem",
+    "url": "https://open.spotify.com/track/5waTXjl4V7YBw1Bo4CsjlM",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27308a27a15cf37664f0dab6ab7",
+    "playedAt": "2026-03-21T08:50:55.552Z"
+  },
+  {
     "title": "House Money",
     "artist": "Baby Keem",
     "url": "https://open.spotify.com/track/5Th1SPySWgYlkXXC6wLMwL",
@@ -54,19 +68,5 @@
     "url": "https://open.spotify.com/track/6Hfu9sc7jvv6coyy2LlzBF",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd",
     "playedAt": "2026-03-20T10:48:40.359Z"
-  },
-  {
-    "title": "Running Up That Hill (A Deal With God)",
-    "artist": "Kate Bush",
-    "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273ad08f4b38efbff0c0da0f252",
-    "playedAt": "2026-03-20T10:38:08.281Z"
-  },
-  {
-    "title": "Homecoming",
-    "artist": "Lil Uzi Vert",
-    "url": "https://open.spotify.com/track/6vxU64pcIuQ38O015Zy4qj",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2735267529d83ab73cf102fcbbd",
-    "playedAt": "2026-03-19T15:26:52.136Z"
   }
 ]
