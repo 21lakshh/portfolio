@@ -1,5 +1,40 @@
 [
   {
+    "title": "HIGHS AND LOWS",
+    "artist": "Kanye West, Ye",
+    "url": "https://open.spotify.com/track/565G1vHZu2xoxrnTyF06Qw",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+    "playedAt": "2026-04-01T17:33:44.820Z"
+  },
+  {
+    "title": "TOO EASY",
+    "artist": "DONDA, Kanye West, Ye",
+    "url": "https://open.spotify.com/track/5JDu5HkUyhcwJHU69ysMvD",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2737cd12a9cfd038d6f23c84a86",
+    "playedAt": "2026-04-01T16:28:28.791Z"
+  },
+  {
+    "title": "ALL THE LOVE (feat. Andre Troutman)",
+    "artist": "Kanye West, Ye, Andre Troutman",
+    "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+    "playedAt": "2026-04-01T10:07:24.168Z"
+  },
+  {
+    "title": "FATHER (feat. Travis Scott)",
+    "artist": "Kanye West, Ye, Travis Scott",
+    "url": "https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+    "playedAt": "2026-04-01T04:55:37.211Z"
+  },
+  {
+    "title": "MAMA’S FAVORITE",
+    "artist": "Kanye West, Ye",
+    "url": "https://open.spotify.com/track/25fLIFbAV7zBetOH077pDl",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+    "playedAt": "2026-04-01T04:52:37.384Z"
+  },
+  {
     "title": "Dark Fantasy",
     "artist": "Kanye West",
     "url": "https://open.spotify.com/track/7yNK27ZTpHew0c55VvIJgm",
@@ -33,40 +68,5 @@
     "url": "https://open.spotify.com/track/565G1vHZu2xoxrnTyF06Qw",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
     "playedAt": "2026-03-31T15:30:38.401Z"
-  },
-  {
-    "title": "LAST BREATH (feat. Peso Pluma)",
-    "artist": "Kanye West, Ye, Peso Pluma",
-    "url": "https://open.spotify.com/track/13CvK7typ0qYle19p9Vahn",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-    "playedAt": "2026-03-31T15:27:19.189Z"
-  },
-  {
-    "title": "BULLY (feat. CeeLo Green)",
-    "artist": "Kanye West, Ye, CeeLo Green",
-    "url": "https://open.spotify.com/track/6KhDb86ThnlKirRw1UBZGb",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-    "playedAt": "2026-03-31T15:19:56.879Z"
-  },
-  {
-    "title": "SISTERS AND BROTHERS",
-    "artist": "Kanye West, Ye",
-    "url": "https://open.spotify.com/track/1FpjiEapAG8XJdVSI0tvdc",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-    "playedAt": "2026-03-31T15:17:26.997Z"
-  },
-  {
-    "title": "MAMA’S FAVORITE",
-    "artist": "Kanye West, Ye",
-    "url": "https://open.spotify.com/track/25fLIFbAV7zBetOH077pDl",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-    "playedAt": "2026-03-31T14:58:57.116Z"
-  },
-  {
-    "title": "ALL THE LOVE (feat. Andre Troutman)",
-    "artist": "Kanye West, Ye, Andre Troutman",
-    "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-    "playedAt": "2026-03-31T14:55:13.327Z"
   }
 ]
