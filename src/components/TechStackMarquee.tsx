@@ -16,6 +16,7 @@ const techStack = [
   // Frameworks & Libraries
   { name: "React.js", category: "framework", icon: "/tech-icons/react.svg", color: "bg-gray-500" },
   { name: "Next.js", category: "framework", icon: "/tech-icons/nextjs.svg", color: "bg-gray-500" },
+  { name: "NestJS", category: "framework", icon: "/tech-icons/Nest.js.svg", color: "bg-gray-500" },
   { name: "Express.js", category: "framework", icon: "/tech-icons/express.svg", color: "bg-gray-500" },
   { name: "Node.js", category: "framework", icon: "/tech-icons/nodejs.svg", color: "bg-gray-500" },
   { name: "FastAPI", category: "framework", icon: "/tech-icons/fastapi.svg", color: "bg-gray-500" },
