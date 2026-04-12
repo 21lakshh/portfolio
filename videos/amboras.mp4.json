@@ -1,0 +1,20 @@
+{
+  "status": "ready",
+  "originalFilePath": "videos\\amboras.mp4",
+  "provider": "mux",
+  "providerMetadata": {
+    "mux": {
+      "assetId": "DGVOoEqvz8xF8ZTEaJG01SNq7DeIqSovQCnGyDRxnkew",
+      "playbackId": "ZcZLi5dNK1Y2QC4bvHIlzi00fLIIQntm3oTecZaH1gO00"
+    }
+  },
+  "size": 0,
+  "sources": [
+    {
+      "src": "https://stream.mux.com/ZcZLi5dNK1Y2QC4bvHIlzi00fLIIQntm3oTecZaH1gO00.m3u8",
+      "type": "application/x-mpegURL"
+    }
+  ],
+  "poster": "https://image.mux.com/ZcZLi5dNK1Y2QC4bvHIlzi00fLIIQntm3oTecZaH1gO00/thumbnail.webp",
+  "blurDataURL": ""
+}

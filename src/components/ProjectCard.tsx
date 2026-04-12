@@ -9,6 +9,11 @@ import Video from "next-video";
 import { useHapticFeedback } from '@/hooks/useHapticFeedback';
 import interviewready from '/videos/interviewready.mp4';;
 import finfluenzz from '/videos/finfluenzz.mp4';
+import impactvolunteer from '/videos/impactvolunteer.mp4';
+import liveflow from '/videos/liveflow.mp4';
+import gitsage from '/videos/gitsage.mp4';
+import amboras from '/videos/amboras.mp4';
+import drishti from '/videos/drishti.mp4';
 import realm from '/videos/realm.mp4';
 import snippify from '/videos/snippify.mp4';
 
@@ -25,6 +30,16 @@ const getVideoSource = (videoId: string) => {
       return interviewready;
     case 'finfluenzz':
       return finfluenzz;
+    case 'impactvolunteer':
+      return impactvolunteer;
+    case 'liveflow':
+      return liveflow;
+    case 'gitsage':
+      return gitsage;
+    case 'amboras':
+      return amboras;
+    case 'drishti':
+      return drishti;
     case 'realm':
       return realm;
     case 'snippify':

@@ -7,6 +7,11 @@ import Video from "next-video";
 import { useState } from 'react';
 import interviewready from '/videos/interviewready.mp4';;
 import finfluenzz from '/videos/finfluenzz.mp4';
+import impactvolunteer from '/videos/impactvolunteer.mp4';
+import liveflow from '/videos/liveflow.mp4';
+import gitsage from '/videos/gitsage.mp4';
+import amboras from '/videos/amboras.mp4';
+import drishti from '/videos/drishti.mp4';
 import realm from '/videos/realm.mp4';
 import snippify from '/videos/snippify.mp4';
 
@@ -22,6 +27,16 @@ const getVideoSource = (videoId: string) => {
       return interviewready;
     case 'finfluenzz':
       return finfluenzz;
+    case 'impactvolunteer':
+      return impactvolunteer;
+    case 'liveflow':
+      return liveflow;
+    case 'gitsage':
+      return gitsage;
+    case 'amboras':
+      return amboras;
+    case 'drishti':
+      return drishti;
     case 'realm':
       return realm;
     case 'snippify':
@@ -76,7 +91,7 @@ export const MasonryProjectCard = ({ project, className = "" }: MasonryProjectCa
               priority
             />
           ) : (
-            <div className="w-full h-full bg-gradient-to-br from-cyan-400/20 via-blue-500/20 to-purple-600/20 rounded-md transition-transform duration-300 group-has-hover:group-hover/item:scale-105" />
+            <div className="w-full h-full bg-linear-to-br from-cyan-400/20 via-blue-500/20 to-purple-600/20 rounded-md transition-transform duration-300 group-has-hover:group-hover/item:scale-105" />
           )}
         </div>
         

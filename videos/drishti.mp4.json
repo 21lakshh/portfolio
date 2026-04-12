@@ -1,0 +1,20 @@
+{
+  "status": "ready",
+  "originalFilePath": "videos\\drishti.mp4",
+  "provider": "mux",
+  "providerMetadata": {
+    "mux": {
+      "assetId": "nuUjt1C02IaAHy12Mmf017PWHVGLw3jhvDndjmZY517g8",
+      "playbackId": "hqzaNn300J39CR1001VWExH65tIfPjnSEgG5ZYX1Rqb0100"
+    }
+  },
+  "size": 0,
+  "sources": [
+    {
+      "src": "https://stream.mux.com/hqzaNn300J39CR1001VWExH65tIfPjnSEgG5ZYX1Rqb0100.m3u8",
+      "type": "application/x-mpegURL"
+    }
+  ],
+  "poster": "https://image.mux.com/hqzaNn300J39CR1001VWExH65tIfPjnSEgG5ZYX1Rqb0100/thumbnail.webp",
+  "blurDataURL": ""
+}

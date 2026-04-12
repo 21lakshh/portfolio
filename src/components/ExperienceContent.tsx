@@ -29,9 +29,11 @@ export default function ExperienceContent() {
       duration: "December 2025 - Present",
       description: "Developed and deployed cutting-edge solutions, including multi-select preferences, browser-based video recording, and API integrations like WhatsApp/email reminders. Optimized workflows with autosave features and real-time scraping, leveraging Next.js, Supabase, and Cloudflare workers.",
       achievements: [
-        "Refactored a vibe-coded legacy codebase into a clean, modular, and production-grade architecture, improving performance, maintainability, and developer experience.",
-        "Led the migration of a 15-year-old WordPress website to Next.js while preserving SEO integrity, including URLs, structured data (JSON-LD), Open Graph, and Twitter metadata, ensuring zero traffic or ranking loss.",
-        "Designed and implemented a Pub/Sub + Webhook-based automation pipeline to ingest new YouTube uploads from the organization's official channel, automatically syncing videos to the database and rendering them on the main website in real time."
+        "Reduced infrastructure costs by 96% by replacing Google Maps Directions API with a self-hosted routing engine (Valhalla); built and periodically updated routing tiles using AWS ECS Fargate, stored them on S3, and served them via an EC2",
+        "Implemented real-time location tracking using Socket.IO (WebSockets) to stream live coordinates between delivery personnel and partners, enabling low-latency tracking and synchronization.",
+        "Built and integrated an agentic AI assistant using Vercel AI SDK to perform in-chat CRUD operations across the platform; achieved ~95% task accuracy on internal evaluation dataset, improving user interaction efficiency and reducing manual workflows.",
+        " Led the migration of a 15-year-old WordPress website to Next.js while preserving SEO integrity, including URLs, structured data (JSON-LD), Open Graph, and Twitter metadata, ensuring zero traffic or ranking loss.",
+        "Designed and implemented a Pub/Sub and Webhook-based automation pipeline to ingest new YouTube uploads from the organization’s channel, automatically syncing videos to the database and rendering them on the website in real time."
       ],
       href: "https://impactvolunteer.com/",
       logoUrl: "/images/realresponsenet.jpeg",
@@ -45,7 +47,7 @@ export default function ExperienceContent() {
         "Designed and implemented a multipart upload pipeline for S3 video recordings, reducing upload time by 90% compared to single-file uploads.",
         "Integrated Razorpay Payment Gateway to enable secure and seamless payment processing.",
         "Implemented a Docker-based CI/CD pipeline on AWS, every new commit triggers an automated image build, deployment, and EC2 instance update with the latest version.",
-        "Scaled the platform to support 100+ concurrent real-time AI-driven interviews, ensuring high performance, reliability, and low latency.",
+        "Built a background cron job to batch-send interview feedback reports via Gmail SMTP by periodically querying interview status and ensuring reliable, idempotent delivery."
       ],
       href: "https://interviews.zariya.ai/",
       logoUrl: "/images/oddmindinnovations.jpeg",

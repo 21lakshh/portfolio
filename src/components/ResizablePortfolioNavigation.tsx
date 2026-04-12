@@ -25,7 +25,6 @@ export default function ResizablePortfolioNavigation() {
   const navItems = [
     { name: 'proof-of-work', link: '/projects' },
     { name: 'blogs', link: '/blogs' },
-    { name: 'ask-me', link: '/ask-me' },
     { name: 'listening', link: '/listening' },
   ];
 
@@ -33,7 +32,6 @@ export default function ResizablePortfolioNavigation() {
     { name: 'home', link: '/' },
     { name: 'proof-of-work', link: '/projects' },
     { name: 'blogs', link: '/blogs' },
-    { name: 'ask-me', link: '/ask-me' },
     { name: 'listening', link: '/listening' },
   ];
 
