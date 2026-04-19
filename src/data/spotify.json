@@ -1,5 +1,26 @@
 [
   {
+    "title": "CONTEST",
+    "artist": "Travis Scott, SoFaygo",
+    "url": "https://open.spotify.com/track/7ydu79RLStYQTOi1OM6Dvg",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2735d0f8a4c3623e02a79928288",
+    "playedAt": "2026-04-18T18:56:21.438Z"
+  },
+  {
+    "title": "CHAMPAIN & VACAY",
+    "artist": "Travis Scott, Don Toliver",
+    "url": "https://open.spotify.com/track/5wNIHa6wvCCKP6fWgo3UAh",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2735d0f8a4c3623e02a79928288",
+    "playedAt": "2026-04-18T18:51:51.375Z"
+  },
+  {
+    "title": "Ca$ino",
+    "artist": "Baby Keem",
+    "url": "https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27308a27a15cf37664f0dab6ab7",
+    "playedAt": "2026-04-18T18:47:51.464Z"
+  },
+  {
     "title": "24",
     "artist": "Kanye West",
     "url": "https://open.spotify.com/track/68RhNM8ehkarnEKnCkqlsp",
@@ -47,26 +68,5 @@
     "url": "https://open.spotify.com/track/5xvXeuxISyXJDRbZZf4uzd",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd",
     "playedAt": "2026-04-17T07:52:10.113Z"
-  },
-  {
-    "title": "Come to Life",
-    "artist": "Kanye West",
-    "url": "https://open.spotify.com/track/5xvXeuxISyXJDRbZZf4uzd",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd",
-    "playedAt": "2026-04-16T12:18:01.201Z"
-  },
-  {
-    "title": "Gettin' It In",
-    "artist": "Jadakiss, Kanye West",
-    "url": "https://open.spotify.com/track/6xcztpu0UjeMQq7ksXaHHu",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273dc1887f571315429ab82bd60",
-    "playedAt": "2026-04-16T09:19:15.508Z"
-  },
-  {
-    "title": "MAMA’S FAVORITE",
-    "artist": "Kanye West, Ye",
-    "url": "https://open.spotify.com/track/25fLIFbAV7zBetOH077pDl",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-    "playedAt": "2026-04-16T09:15:45.310Z"
   }
 ]
