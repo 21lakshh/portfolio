@@ -1,5 +1,47 @@
 [
   {
+    "title": "BEAUTY AND THE BEAST",
+    "artist": "Kanye West, Ye",
+    "url": "https://open.spotify.com/track/6pxHjkpwGmg97Yn5HcwNTn",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+    "playedAt": "2026-04-19T15:03:59.430Z"
+  },
+  {
+    "title": "PREACHER MAN",
+    "artist": "Kanye West, Ye",
+    "url": "https://open.spotify.com/track/0fD7KBtQgPR1YCtuPAsyZJ",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+    "playedAt": "2026-04-19T15:01:59.294Z"
+  },
+  {
+    "title": "FATHER (feat. Travis Scott)",
+    "artist": "Kanye West, Ye, Travis Scott",
+    "url": "https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+    "playedAt": "2026-04-19T14:55:29.101Z"
+  },
+  {
+    "title": "I CAN’T WAIT",
+    "artist": "Kanye West, Ye",
+    "url": "https://open.spotify.com/track/163l4Itf8oDEK7ZYdVm22N",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+    "playedAt": "2026-04-19T14:52:29.126Z"
+  },
+  {
+    "title": "Gemstone",
+    "artist": "Don Toliver",
+    "url": "https://open.spotify.com/track/6d9Cs2D2RSIl9c0ulgnFe8",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
+    "playedAt": "2026-04-19T11:49:05.852Z"
+  },
+  {
+    "title": "Gemstone",
+    "artist": "Don Toliver",
+    "url": "https://open.spotify.com/track/6d9Cs2D2RSIl9c0ulgnFe8",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
+    "playedAt": "2026-04-19T06:46:11.154Z"
+  },
+  {
     "title": "CONTEST",
     "artist": "Travis Scott, SoFaygo",
     "url": "https://open.spotify.com/track/7ydu79RLStYQTOi1OM6Dvg",
@@ -26,47 +68,5 @@
     "url": "https://open.spotify.com/track/68RhNM8ehkarnEKnCkqlsp",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd",
     "playedAt": "2026-04-17T16:04:52.592Z"
-  },
-  {
-    "title": "No Mistakes",
-    "artist": "Kanye West",
-    "url": "https://open.spotify.com/track/35KV2Nuib6jPMVN00O8iba",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-    "playedAt": "2026-04-17T15:10:21.431Z"
-  },
-  {
-    "title": "Flashing Lights",
-    "artist": "Kanye West, Dwele",
-    "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-    "playedAt": "2026-04-17T14:42:31.774Z"
-  },
-  {
-    "title": "PAPERWORK",
-    "artist": "¥$, Kanye West, Ty Dolla $ign",
-    "url": "https://open.spotify.com/track/2jf0ooqmXMqaGqh0bdYsHR",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2739c654f315df05ae7c6ec8980",
-    "playedAt": "2026-04-17T13:17:57.962Z"
-  },
-  {
-    "title": "MAMA’S FAVORITE",
-    "artist": "Kanye West, Ye",
-    "url": "https://open.spotify.com/track/25fLIFbAV7zBetOH077pDl",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-    "playedAt": "2026-04-17T09:30:51.920Z"
-  },
-  {
-    "title": "MAMA’S FAVORITE",
-    "artist": "Kanye West, Ye",
-    "url": "https://open.spotify.com/track/25fLIFbAV7zBetOH077pDl",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-    "playedAt": "2026-04-17T09:28:02.351Z"
-  },
-  {
-    "title": "Come to Life",
-    "artist": "Kanye West",
-    "url": "https://open.spotify.com/track/5xvXeuxISyXJDRbZZf4uzd",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd",
-    "playedAt": "2026-04-17T07:52:10.113Z"
   }
 ]
