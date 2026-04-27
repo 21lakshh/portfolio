@@ -1,5 +1,54 @@
 [
   {
+    "title": "Jugnoo",
+    "artist": "gini, Tansen.",
+    "url": "https://open.spotify.com/track/0uPrrSbhD2OXNKB5kIKGV8",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2736adbee060b2ba05a1eb703eb",
+    "playedAt": "2026-04-26T16:53:01.668Z"
+  },
+  {
+    "title": "Aashiyan",
+    "artist": "gini",
+    "url": "https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273a80dce00e494ada878e23ad7",
+    "playedAt": "2026-04-26T14:25:59.847Z"
+  },
+  {
+    "title": "Sukoon",
+    "artist": "gini",
+    "url": "https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273585652898e7039b59ce92bd7",
+    "playedAt": "2026-04-26T14:23:29.057Z"
+  },
+  {
+    "title": "Feeka",
+    "artist": "gini, NEVERSOBER",
+    "url": "https://open.spotify.com/track/0KtpHwKA3UylFJyaJcdBxv",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2738a525e467b0896e2a9b1c1af",
+    "playedAt": "2026-04-26T14:20:05.757Z"
+  },
+  {
+    "title": "Aashiqana",
+    "artist": "Chaar Diwaari, Indian Ocean, gini",
+    "url": "https://open.spotify.com/track/5VmmaElvu2KTB0mpUSGlMy",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27355464e747040763e1616b01d",
+    "playedAt": "2026-04-26T14:17:29.695Z"
+  },
+  {
+    "title": "Aashiqana",
+    "artist": "Chaar Diwaari, Indian Ocean, gini",
+    "url": "https://open.spotify.com/track/5VmmaElvu2KTB0mpUSGlMy",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27355464e747040763e1616b01d",
+    "playedAt": "2026-04-26T14:06:05.441Z"
+  },
+  {
+    "title": "Banda Kaam Ka",
+    "artist": "Chaar Diwaari, Sanjith Hegde",
+    "url": "https://open.spotify.com/track/6W4MOy1bqS6hm0a9ViBdon",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27355464e747040763e1616b01d",
+    "playedAt": "2026-04-26T09:36:37.478Z"
+  },
+  {
     "title": "Aashiqana",
     "artist": "Chaar Diwaari, Indian Ocean, gini",
     "url": "https://open.spotify.com/track/5VmmaElvu2KTB0mpUSGlMy",
@@ -19,54 +68,5 @@
     "url": "https://open.spotify.com/track/0KtpHwKA3UylFJyaJcdBxv",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b2738a525e467b0896e2a9b1c1af",
     "playedAt": "2026-04-25T23:38:32.079Z"
-  },
-  {
-    "title": "Aashiqana",
-    "artist": "Chaar Diwaari, Indian Ocean, gini",
-    "url": "https://open.spotify.com/track/5VmmaElvu2KTB0mpUSGlMy",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27355464e747040763e1616b01d",
-    "playedAt": "2026-04-25T23:36:09.823Z"
-  },
-  {
-    "title": "Aashiq Tera",
-    "artist": "Sohail Sen, Altamash Faridi",
-    "url": "https://open.spotify.com/track/7FwYs4qSJCJi2Hd6ZV8Q3M",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27311b260e5bfa1590dc2f3449a",
-    "playedAt": "2026-04-24T15:22:20.915Z"
-  },
-  {
-    "title": "Holiday",
-    "artist": "KSI",
-    "url": "https://open.spotify.com/track/3G2omDJ5ZGYSiJV3UOOPw0",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27319cddfd7465c3ef378e6d64c",
-    "playedAt": "2026-04-24T14:28:01.086Z"
-  },
-  {
-    "title": "Piya O Re Piya",
-    "artist": "Sachin-Jigar, Atif Aslam, Shreya Ghoshal",
-    "url": "https://open.spotify.com/track/5a11x5PUFvJEadMRqtNtTr",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2739546c25ac50268b2b74842e7",
-    "playedAt": "2026-04-24T14:25:06.263Z"
-  },
-  {
-    "title": "SLIDE",
-    "artist": "¥$, Kanye West, Ty Dolla $ign",
-    "url": "https://open.spotify.com/track/5MGMXOhVvwzCjFgdQsFokR",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273fb9cedd86a3d08dc053a550d",
-    "playedAt": "2026-04-24T14:15:44.282Z"
-  },
-  {
-    "title": "KING",
-    "artist": "Kanye West, Ye",
-    "url": "https://open.spotify.com/track/4LP6bmyAxdMNrqUrMpaVQ8",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-    "playedAt": "2026-04-24T14:12:14.087Z"
-  },
-  {
-    "title": "WHATEVER WORKS",
-    "artist": "Kanye West, Ye",
-    "url": "https://open.spotify.com/track/7GVuAK4EmYP7gvlXA4JXqU",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-    "playedAt": "2026-04-24T12:24:20.458Z"
   }
 ]
