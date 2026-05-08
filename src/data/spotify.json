@@ -1,5 +1,40 @@
 [
   {
+    "title": "Iss Tarah",
+    "artist": "Chaar Diwaari, Sonu Nigam",
+    "url": "https://open.spotify.com/track/2YI0bMPGm30jXKiOH1kYGt",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27355464e747040763e1616b01d",
+    "playedAt": "2026-05-08T03:22:32.005Z"
+  },
+  {
+    "title": "Banda Kaam Ka",
+    "artist": "Chaar Diwaari, Sanjith Hegde",
+    "url": "https://open.spotify.com/track/6W4MOy1bqS6hm0a9ViBdon",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27355464e747040763e1616b01d",
+    "playedAt": "2026-05-08T03:04:42.200Z"
+  },
+  {
+    "title": "Aashiqana",
+    "artist": "Chaar Diwaari, Indian Ocean, gini",
+    "url": "https://open.spotify.com/track/5VmmaElvu2KTB0mpUSGlMy",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27355464e747040763e1616b01d",
+    "playedAt": "2026-05-08T03:00:12.135Z"
+  },
+  {
+    "title": "Aashiqana",
+    "artist": "Chaar Diwaari, Indian Ocean, gini",
+    "url": "https://open.spotify.com/track/5VmmaElvu2KTB0mpUSGlMy",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27355464e747040763e1616b01d",
+    "playedAt": "2026-05-08T01:38:14.605Z"
+  },
+  {
+    "title": "Wolves",
+    "artist": "Kanye West",
+    "url": "https://open.spotify.com/track/432hUIl3ISDeytYW5XBQ5h",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
+    "playedAt": "2026-05-07T15:17:11.580Z"
+  },
+  {
     "title": "Roke Na Ruke Naina",
     "artist": "Arijit Singh, Amaal Mallik, Kumaar",
     "url": "https://open.spotify.com/track/2k7RoJQR0mi8WVWK0Och93",
@@ -33,40 +68,5 @@
     "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b273d84a9bbcba91cb6a4a212b1b",
     "playedAt": "2026-05-06T09:24:38.870Z"
-  },
-  {
-    "title": "Abhi Na Jao Chhod Kar- Romantic Version",
-    "artist": "Ankush Bhardwaj, Ananya Sharma, Sahir Ludhianvi",
-    "url": "https://open.spotify.com/track/4rS3c3pooAtORzdFL5a7ty",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273654a3220774abcbf6392e58a",
-    "playedAt": "2026-05-06T09:21:09.016Z"
-  },
-  {
-    "title": "Malang Sajna",
-    "artist": "Sachet Tandon, Parampara Tandon, Kumaar, Sachet-Parampara",
-    "url": "https://open.spotify.com/track/73K33p4Vyz9koXGqmL5eFs",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273b7db9426744019889da8a856",
-    "playedAt": "2026-05-06T09:15:39.120Z"
-  },
-  {
-    "title": "Dark Fantasy",
-    "artist": "Kanye West",
-    "url": "https://open.spotify.com/track/7yNK27ZTpHew0c55VvIJgm",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
-    "playedAt": "2026-05-06T09:04:00.312Z"
-  },
-  {
-    "title": "I Am A God",
-    "artist": "Kanye West",
-    "url": "https://open.spotify.com/track/0HMCdlOPJkAGlB0MlSWIcO",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2731dacfbc31cc873d132958af9",
-    "playedAt": "2026-05-06T08:55:00.390Z"
-  },
-  {
-    "title": "Paranoid",
-    "artist": "Kanye West, Mr Hudson",
-    "url": "https://open.spotify.com/track/0w2piYWj1F2bzUftzGJgK9",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18",
-    "playedAt": "2026-05-06T08:47:00.235Z"
   }
 ]
