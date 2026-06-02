@@ -1,5 +1,47 @@
 [
   {
+    "title": "TALKING",
+    "artist": "¥$, Kanye West, Ty Dolla $ign",
+    "url": "https://open.spotify.com/track/2os3F2ZKbj02ZWXWAdWGFD",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2739c654f315df05ae7c6ec8980",
+    "playedAt": "2026-06-01T16:15:37.901Z"
+  },
+  {
+    "title": "HUSBAND",
+    "artist": "¥$, Kanye West, Ty Dolla $ign",
+    "url": "https://open.spotify.com/track/6LHeisjoP8eHrtu45UbTPO",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273fb9cedd86a3d08dc053a550d",
+    "playedAt": "2026-06-01T16:01:02.222Z"
+  },
+  {
+    "title": "MAMA’S FAVORITE (feat. Nine Vicious)",
+    "artist": "Kanye West, Ye, Nine Vicious",
+    "url": "https://open.spotify.com/track/25fLIFbAV7zBetOH077pDl",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+    "playedAt": "2026-06-01T15:58:44.305Z"
+  },
+  {
+    "title": "ALL THE LOVE (feat. Andre Troutman)",
+    "artist": "Kanye West, Ye, Andre Troutman",
+    "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+    "playedAt": "2026-06-01T15:56:09.634Z"
+  },
+  {
+    "title": "Moon",
+    "artist": "Kanye West",
+    "url": "https://open.spotify.com/track/7CC6UbCs4iGsePSzFxYxNn",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd",
+    "playedAt": "2026-06-01T15:52:20.108Z"
+  },
+  {
+    "title": "FIRST TIME IN A LONG TIME",
+    "artist": "DONDA, Kanye West, Ye",
+    "url": "https://open.spotify.com/track/7aUzsxDB0DYz7IHX83b2b4",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2737cd12a9cfd038d6f23c84a86",
+    "playedAt": "2026-06-01T15:49:43.643Z"
+  },
+  {
     "title": "FIRST TIME IN A LONG TIME",
     "artist": "DONDA, Kanye West, Ye",
     "url": "https://open.spotify.com/track/7aUzsxDB0DYz7IHX83b2b4",
@@ -26,47 +68,5 @@
     "url": "https://open.spotify.com/track/4IO2X2YoXoUMv0M2rwomLC",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
     "playedAt": "2026-05-29T14:15:19.403Z"
-  },
-  {
-    "title": "RATHER LIE (with The Weeknd)",
-    "artist": "Playboi Carti, The Weeknd",
-    "url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
-    "playedAt": "2026-05-29T13:58:06.319Z"
-  },
-  {
-    "title": "BACKD00R (feat. Kendrick Lamar & Jhené Aiko)",
-    "artist": "Playboi Carti, Kendrick Lamar, Jhené Aiko",
-    "url": "https://open.spotify.com/track/0rNgWFQJtfttOYIHfDOHCg",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
-    "playedAt": "2026-05-29T13:54:36.256Z"
-  },
-  {
-    "title": "E85",
-    "artist": "Don Toliver",
-    "url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-    "playedAt": "2026-05-29T13:51:25.914Z"
-  },
-  {
-    "title": "lost souls (with Brent Faiyaz)",
-    "artist": "Baby Keem, Brent Faiyaz",
-    "url": "https://open.spotify.com/track/6UjwKoH47d2FveB38u8Si9",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273a97160f8731efb13153b358e",
-    "playedAt": "2026-05-29T13:48:52.350Z"
-  },
-  {
-    "title": "I SEEEEEE YOU BABY BOI",
-    "artist": "Playboi Carti",
-    "url": "https://open.spotify.com/track/2ydagYqcyFfRtQPzKc5E8l",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
-    "playedAt": "2026-05-28T14:55:09.495Z"
-  },
-  {
-    "title": "family ties (with Kendrick Lamar)",
-    "artist": "Baby Keem, Kendrick Lamar",
-    "url": "https://open.spotify.com/track/3QFInJAm9eyaho5vBzxInN",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27335a8a0c8b82b525679eceda6",
-    "playedAt": "2026-05-28T14:43:55.559Z"
   }
 ]
