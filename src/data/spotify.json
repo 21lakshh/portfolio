@@ -1,5 +1,33 @@
 [
   {
+    "title": "Dark Fantasy",
+    "artist": "Kanye West",
+    "url": "https://open.spotify.com/track/7yNK27ZTpHew0c55VvIJgm",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+    "playedAt": "2026-06-04T16:04:38.714Z"
+  },
+  {
+    "title": "Moon",
+    "artist": "Kanye West",
+    "url": "https://open.spotify.com/track/7CC6UbCs4iGsePSzFxYxNn",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd",
+    "playedAt": "2026-06-04T15:41:10.263Z"
+  },
+  {
+    "title": "MAMA’S FAVORITE (feat. Nine Vicious)",
+    "artist": "Kanye West, Ye, Nine Vicious",
+    "url": "https://open.spotify.com/track/25fLIFbAV7zBetOH077pDl",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+    "playedAt": "2026-06-04T15:15:03.417Z"
+  },
+  {
+    "title": "Ghost Town",
+    "artist": "Kanye West, PARTYNEXTDOOR",
+    "url": "https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+    "playedAt": "2026-06-04T15:07:01.574Z"
+  },
+  {
     "title": "DUMBO",
     "artist": "Travis Scott",
     "url": "https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML",
@@ -40,33 +68,5 @@
     "url": "https://open.spotify.com/track/7szuecWAPwGoV1e5vGu8tl",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
     "playedAt": "2026-06-02T16:03:33.230Z"
-  },
-  {
-    "title": "Father Stretch My Hands Pt. 1",
-    "artist": "Kanye West",
-    "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
-    "playedAt": "2026-06-02T15:59:35.364Z"
-  },
-  {
-    "title": "Come & Go (with Marshmello)",
-    "artist": "Juice WRLD, Marshmello",
-    "url": "https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb",
-    "playedAt": "2026-06-02T15:57:19.096Z"
-  },
-  {
-    "title": "wonderful",
-    "artist": "Travis Scott",
-    "url": "https://open.spotify.com/track/1cZlBZwnwGPtYeRIeQcoFh",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2738752a7355996e64709247c53",
-    "playedAt": "2026-06-02T14:52:15.307Z"
-  },
-  {
-    "title": "Dancing In The Flames",
-    "artist": "The Weeknd",
-    "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273f0e9b93cadbeb4d0227a59eb",
-    "playedAt": "2026-06-02T13:57:50.553Z"
   }
 ]
