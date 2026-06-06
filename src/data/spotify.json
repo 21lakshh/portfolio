@@ -1,5 +1,47 @@
 [
   {
+    "title": "American Deli",
+    "artist": "Chavo, Pi’erre Bourne, Coi Leray",
+    "url": "https://open.spotify.com/track/4h88f7KXoI3dICwtZlmY5o",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273078bb913e86682a0c8b0d827",
+    "playedAt": "2026-06-05T16:31:33.208Z"
+  },
+  {
+    "title": "CRUSH (with Travis Scott)",
+    "artist": "Playboi Carti, Travis Scott",
+    "url": "https://open.spotify.com/track/3VdooJLOy4tLxKpnn46SMP",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+    "playedAt": "2026-06-05T16:19:21.195Z"
+  },
+  {
+    "title": "FOMDJ",
+    "artist": "Playboi Carti",
+    "url": "https://open.spotify.com/track/7bO7a1KrtmGNDIOy2u3siZ",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2736da4ec0bce9baf42436db10a",
+    "playedAt": "2026-06-05T16:16:27.524Z"
+  },
+  {
+    "title": "BUTTERFLY EFFECT",
+    "artist": "Travis Scott",
+    "url": "https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32",
+    "playedAt": "2026-06-05T16:10:56.501Z"
+  },
+  {
+    "title": "YOSEMITE",
+    "artist": "Travis Scott",
+    "url": "https://open.spotify.com/track/7lAK3oHbfEnvUQWosrMMpR",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32",
+    "playedAt": "2026-06-05T16:07:45.623Z"
+  },
+  {
+    "title": "YOSEMITE",
+    "artist": "Travis Scott",
+    "url": "https://open.spotify.com/track/7lAK3oHbfEnvUQWosrMMpR",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32",
+    "playedAt": "2026-06-05T16:04:52.800Z"
+  },
+  {
     "title": "Dark Fantasy",
     "artist": "Kanye West",
     "url": "https://open.spotify.com/track/7yNK27ZTpHew0c55VvIJgm",
@@ -26,47 +68,5 @@
     "url": "https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
     "playedAt": "2026-06-04T15:07:01.574Z"
-  },
-  {
-    "title": "DUMBO",
-    "artist": "Travis Scott",
-    "url": "https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2735d0f8a4c3623e02a79928288",
-    "playedAt": "2026-06-03T15:38:58.825Z"
-  },
-  {
-    "title": "DA WIZARD",
-    "artist": "Travis Scott",
-    "url": "https://open.spotify.com/track/3GD2JOOvVAh6uN3iTyHw6O",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273efbd6db75af779c6028cb95c",
-    "playedAt": "2026-06-03T15:35:00.232Z"
-  },
-  {
-    "title": "SKELETONS",
-    "artist": "Travis Scott",
-    "url": "https://open.spotify.com/track/6NMtzpDQBTOfJwMzgMX0zl",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32",
-    "playedAt": "2026-06-03T15:32:23.693Z"
-  },
-  {
-    "title": "YOSEMITE",
-    "artist": "Travis Scott",
-    "url": "https://open.spotify.com/track/7lAK3oHbfEnvUQWosrMMpR",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32",
-    "playedAt": "2026-06-03T15:29:57.735Z"
-  },
-  {
-    "title": "Blinding Lights",
-    "artist": "The Weeknd",
-    "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
-    "playedAt": "2026-06-02T16:25:27.873Z"
-  },
-  {
-    "title": "In Your Eyes",
-    "artist": "The Weeknd",
-    "url": "https://open.spotify.com/track/7szuecWAPwGoV1e5vGu8tl",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
-    "playedAt": "2026-06-02T16:03:33.230Z"
   }
 ]
