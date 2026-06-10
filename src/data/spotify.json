@@ -1,5 +1,12 @@
 [
   {
+    "title": "Good Morning",
+    "artist": "Kanye West",
+    "url": "https://open.spotify.com/track/6MXXY2eiWkpDCezVCc0cMH",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+    "playedAt": "2026-06-09T05:31:40.306Z"
+  },
+  {
     "title": "Bailando - English Version",
     "artist": "Enrique Iglesias, Sean Paul, Descemer Bueno, Gente De Zona",
     "url": "https://open.spotify.com/track/5H8bSa8cVKMS44Wy6ngAHU",
@@ -61,12 +68,5 @@
     "url": "https://open.spotify.com/track/5zEsv2Uz9r7J5pGpCRdeTx",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b273a97160f8731efb13153b358e",
     "playedAt": "2026-06-08T11:28:29.205Z"
-  },
-  {
-    "title": "HELICOPTER",
-    "artist": "A$AP Rocky",
-    "url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-    "playedAt": "2026-06-08T11:25:51.887Z"
   }
 ]
