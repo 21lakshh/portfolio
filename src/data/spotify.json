@@ -1,5 +1,12 @@
 [
   {
+    "title": "Piano Man",
+    "artist": "Billy Joel",
+    "url": "https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273aff4aef671b2510be7c115b3",
+    "playedAt": "2026-06-11T19:20:14.497Z"
+  },
+  {
     "title": "Kids See Ghosts",
     "artist": "KIDS SEE GHOSTS, Yasiin Bey",
     "url": "https://open.spotify.com/track/2I3dW2dCBZAJGj5X21E53k",
@@ -61,12 +68,5 @@
     "url": "https://open.spotify.com/track/5H8bSa8cVKMS44Wy6ngAHU",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b27390b2ea6298a6e5d98e60d6ec",
     "playedAt": "2026-06-08T20:53:11.914Z"
-  },
-  {
-    "title": "Through The Wire",
-    "artist": "Kanye West",
-    "url": "https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78",
-    "playedAt": "2026-06-08T15:39:31.328Z"
   }
 ]
