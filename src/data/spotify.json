@@ -1,5 +1,26 @@
 [
   {
+    "title": "E85",
+    "artist": "Don Toliver",
+    "url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
+    "playedAt": "2026-06-22T15:37:20.912Z"
+  },
+  {
+    "title": "Janice STFU",
+    "artist": "Drake",
+    "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+    "playedAt": "2026-06-22T15:23:15.099Z"
+  },
+  {
+    "title": "OK (feat. Don Toliver)",
+    "artist": "Kanye West, Ye, Don Toliver",
+    "url": "https://open.spotify.com/track/5UNo2nitxVTkBA9QYmnHJx",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273c5b4082a6636bb067532b484",
+    "playedAt": "2026-06-22T15:19:17.398Z"
+  },
+  {
     "title": "Touch The Sky",
     "artist": "Kanye West, Lupe Fiasco",
     "url": "https://open.spotify.com/track/2dxjKgT0li4qBI3QwuN9Ih",
@@ -21,8 +42,8 @@
     "playedAt": "2026-06-21T15:26:37.483Z"
   },
   {
-    "title": "MISSION CONTROL",
-    "artist": "Kanye West, Ye",
+    "title": "MISSION CONTROL (feat. The WRLDFMS Tony Williams)",
+    "artist": "Kanye West, Ye, The WRLDFMS Tony Williams",
     "url": "https://open.spotify.com/track/040LDuJ8MWKKhV9Fdwc64N",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b273c5b4082a6636bb067532b484",
     "playedAt": "2026-06-21T15:24:03.009Z"
@@ -47,26 +68,5 @@
     "url": "https://open.spotify.com/track/6NMtzpDQBTOfJwMzgMX0zl",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32",
     "playedAt": "2026-06-20T22:38:52.171Z"
-  },
-  {
-    "title": "STARGAZING",
-    "artist": "Travis Scott",
-    "url": "https://open.spotify.com/track/7wBJfHzpfI3032CSD7CE2m",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32",
-    "playedAt": "2026-06-20T16:52:44.065Z"
-  },
-  {
-    "title": "BUTTERFLY EFFECT",
-    "artist": "Travis Scott",
-    "url": "https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32",
-    "playedAt": "2026-06-20T15:46:28.226Z"
-  },
-  {
-    "title": "SICKO MODE",
-    "artist": "Travis Scott",
-    "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32",
-    "playedAt": "2026-06-20T15:43:17.259Z"
   }
 ]
