@@ -1,5 +1,12 @@
 [
   {
+    "title": "GTA 2",
+    "artist": "Rarin",
+    "url": "https://open.spotify.com/track/0qjux3nULEYN7Yz9jijgWz",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273f7bcc8fc308a32917608e102",
+    "playedAt": "2026-06-27T10:06:26.784Z"
+  },
+  {
     "title": "HOUSTONFORNICATION",
     "artist": "Travis Scott",
     "url": "https://open.spotify.com/track/58TaFP5j5i9swOf584yon2",
@@ -61,12 +68,5 @@
     "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b273707d13d3f87652e737e94d45",
     "playedAt": "2026-06-25T18:15:49.014Z"
-  },
-  {
-    "title": "Burning Bridges",
-    "artist": "Drake",
-    "url": "https://open.spotify.com/track/1ijYk2EYwj0rGqYwtjiAUJ",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-    "playedAt": "2026-06-25T15:42:54.810Z"
   }
 ]
