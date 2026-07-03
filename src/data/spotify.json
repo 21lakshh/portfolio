@@ -1,5 +1,33 @@
 [
   {
+    "title": "Embarrassed (feat. Travis Scott)",
+    "artist": "Don Toliver, Travis Scott",
+    "url": "https://open.spotify.com/track/6w9GrSUaQQIaMBYtabge7p",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273307323fa550564b0201b1d76",
+    "playedAt": "2026-07-02T16:24:07.683Z"
+  },
+  {
+    "title": "OK (feat. Don Toliver)",
+    "artist": "Kanye West, Ye, Don Toliver",
+    "url": "https://open.spotify.com/track/5UNo2nitxVTkBA9QYmnHJx",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273c5b4082a6636bb067532b484",
+    "playedAt": "2026-07-02T16:03:29.811Z"
+  },
+  {
+    "title": "No Pole",
+    "artist": "Don Toliver",
+    "url": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273307323fa550564b0201b1d76",
+    "playedAt": "2026-07-02T16:00:51.286Z"
+  },
+  {
+    "title": "E85",
+    "artist": "Don Toliver",
+    "url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
+    "playedAt": "2026-07-02T15:57:43.375Z"
+  },
+  {
     "title": "adore u",
     "artist": "Fred again.., Obongjayar",
     "url": "https://open.spotify.com/track/1rf4SX7dduNbrNnOmupLzi",
@@ -40,33 +68,5 @@
     "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b273bf705b821b031cefe91d7b90",
     "playedAt": "2026-07-01T15:12:07.723Z"
-  },
-  {
-    "title": "Closer",
-    "artist": "The Chainsmokers, Halsey",
-    "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273495ce6da9aeb159e94eaa453",
-    "playedAt": "2026-07-01T06:15:53.561Z"
-  },
-  {
-    "title": "OK (feat. Don Toliver)",
-    "artist": "Kanye West, Ye, Don Toliver",
-    "url": "https://open.spotify.com/track/5UNo2nitxVTkBA9QYmnHJx",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273c5b4082a6636bb067532b484",
-    "playedAt": "2026-07-01T05:49:22.656Z"
-  },
-  {
-    "title": "Noid",
-    "artist": "Tyler, The Creator",
-    "url": "https://open.spotify.com/track/1YdtGoSYDvVQKoUqSDXX41",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273084a94988541c2402615d014",
-    "playedAt": "2026-06-29T17:12:47.215Z"
-  },
-  {
-    "title": "Embarrassed (feat. Travis Scott)",
-    "artist": "Don Toliver, Travis Scott",
-    "url": "https://open.spotify.com/track/6w9GrSUaQQIaMBYtabge7p",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273307323fa550564b0201b1d76",
-    "playedAt": "2026-06-29T15:59:09.350Z"
   }
 ]
