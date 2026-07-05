@@ -1,5 +1,33 @@
 [
   {
+    "title": "SICKO MODE",
+    "artist": "Travis Scott",
+    "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32",
+    "playedAt": "2026-07-04T16:02:34.481Z"
+  },
+  {
+    "title": "BUTTERFLY EFFECT",
+    "artist": "Travis Scott",
+    "url": "https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32",
+    "playedAt": "2026-07-04T15:38:04.248Z"
+  },
+  {
+    "title": "SKELETONS",
+    "artist": "Travis Scott",
+    "url": "https://open.spotify.com/track/6NMtzpDQBTOfJwMzgMX0zl",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32",
+    "playedAt": "2026-07-04T15:34:53.322Z"
+  },
+  {
+    "title": "2 Hard 4 The Radio",
+    "artist": "Drake",
+    "url": "https://open.spotify.com/track/7COiiObIVJIdBcW3J43Iy2",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+    "playedAt": "2026-07-04T09:05:11.935Z"
+  },
+  {
     "title": "HELICOPTER",
     "artist": "A$AP Rocky",
     "url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A",
@@ -40,33 +68,5 @@
     "url": "https://open.spotify.com/track/4pUInFMBNgrmVIaqTapNAt",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b273c5b4082a6636bb067532b484",
     "playedAt": "2026-07-03T15:28:35.124Z"
-  },
-  {
-    "title": "B's On The Table (feat. 21 Savage)",
-    "artist": "Drake, 21 Savage",
-    "url": "https://open.spotify.com/track/4ygJHbpMGwZknVFaRikdFr",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-    "playedAt": "2026-07-03T15:26:45.647Z"
-  },
-  {
-    "title": "deaf note (with Playboi Carti)",
-    "artist": "Ken Carson, Playboi Carti",
-    "url": "https://open.spotify.com/track/17BcTd9O7iLnHQfGo31ntV",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-    "playedAt": "2026-07-03T12:33:56.748Z"
-  },
-  {
-    "title": "Embarrassed (feat. Travis Scott)",
-    "artist": "Don Toliver, Travis Scott",
-    "url": "https://open.spotify.com/track/6w9GrSUaQQIaMBYtabge7p",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273307323fa550564b0201b1d76",
-    "playedAt": "2026-07-02T16:24:07.683Z"
-  },
-  {
-    "title": "OK (feat. Don Toliver)",
-    "artist": "Kanye West, Ye, Don Toliver",
-    "url": "https://open.spotify.com/track/5UNo2nitxVTkBA9QYmnHJx",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273c5b4082a6636bb067532b484",
-    "playedAt": "2026-07-02T16:03:29.811Z"
   }
 ]
