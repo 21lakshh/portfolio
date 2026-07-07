@@ -1,5 +1,26 @@
 [
   {
+    "title": "FOMDJ",
+    "artist": "Playboi Carti",
+    "url": "https://open.spotify.com/track/7bO7a1KrtmGNDIOy2u3siZ",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2736da4ec0bce9baf42436db10a",
+    "playedAt": "2026-07-06T16:20:56.475Z"
+  },
+  {
+    "title": "CRUSH (with Travis Scott)",
+    "artist": "Playboi Carti, Travis Scott",
+    "url": "https://open.spotify.com/track/3VdooJLOy4tLxKpnn46SMP",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+    "playedAt": "2026-07-06T15:28:31.813Z"
+  },
+  {
+    "title": "On Sight",
+    "artist": "Kanye West",
+    "url": "https://open.spotify.com/track/1gqkRc9WtOpnGIqxf2Hvzr",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2731dacfbc31cc873d132958af9",
+    "playedAt": "2026-07-06T15:25:38.230Z"
+  },
+  {
     "title": "Paan Ki Dukaan (From \"O' Romeo\")",
     "artist": "Vishal Bhardwaj, Sukhwinder Singh, Rekha Bhardwaj, Gulzar",
     "url": "https://open.spotify.com/track/6sQXr0uTPDkf2QTXfIrH4K",
@@ -47,26 +68,5 @@
     "url": "https://open.spotify.com/track/6Hfu9sc7jvv6coyy2LlzBF",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd",
     "playedAt": "2026-07-05T13:54:26.814Z"
-  },
-  {
-    "title": "Donda Chant",
-    "artist": "Kanye West",
-    "url": "https://open.spotify.com/track/7eSSmgq26BXr7xay3WKjfi",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd",
-    "playedAt": "2026-07-05T13:44:22.924Z"
-  },
-  {
-    "title": "Jonah",
-    "artist": "Kanye West",
-    "url": "https://open.spotify.com/track/35acXjupfWHgtchiS6yAjC",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd",
-    "playedAt": "2026-07-05T13:43:25.530Z"
-  },
-  {
-    "title": "24",
-    "artist": "Kanye West",
-    "url": "https://open.spotify.com/track/68RhNM8ehkarnEKnCkqlsp",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd",
-    "playedAt": "2026-07-05T13:40:00.349Z"
   }
 ]
