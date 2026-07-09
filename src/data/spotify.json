@@ -1,5 +1,19 @@
 [
   {
+    "title": "90210 (feat. Kacy Hill)",
+    "artist": "Travis Scott, Kacy Hill",
+    "url": "https://open.spotify.com/track/51EC3I1nQXpec4gDk0mQyP",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273d3b5affd8824b4ed301b7137",
+    "playedAt": "2026-07-08T15:53:17.765Z"
+  },
+  {
+    "title": "MY EYES",
+    "artist": "Travis Scott",
+    "url": "https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27304481c826dd292e5e4983b3f",
+    "playedAt": "2026-07-08T15:10:14.386Z"
+  },
+  {
     "title": "HONEST",
     "artist": "Baby Keem",
     "url": "https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9",
@@ -54,19 +68,5 @@
     "url": "https://open.spotify.com/track/6LNoArVBBVZzUTUiAX2aKO",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd",
     "playedAt": "2026-07-05T16:08:24.965Z"
-  },
-  {
-    "title": "MISSION CONTROL (feat. The WRLDFMS Tony Williams)",
-    "artist": "Kanye West, Ye, The WRLDFMS Tony Williams",
-    "url": "https://open.spotify.com/track/040LDuJ8MWKKhV9Fdwc64N",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273c5b4082a6636bb067532b484",
-    "playedAt": "2026-07-05T14:29:13.786Z"
-  },
-  {
-    "title": "Pure Souls",
-    "artist": "Kanye West",
-    "url": "https://open.spotify.com/track/5aqUqSq0SqGBAqEn27PEzc",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd",
-    "playedAt": "2026-07-05T14:23:21.483Z"
   }
 ]
