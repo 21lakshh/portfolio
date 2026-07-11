@@ -1,5 +1,33 @@
 [
   {
+    "title": "All Of The Lights",
+    "artist": "Kanye West",
+    "url": "https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+    "playedAt": "2026-07-10T16:14:23.390Z"
+  },
+  {
+    "title": "Through The Wire",
+    "artist": "Kanye West",
+    "url": "https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78",
+    "playedAt": "2026-07-10T16:09:23.454Z"
+  },
+  {
+    "title": "Father Stretch My Hands Pt. 1",
+    "artist": "Kanye West",
+    "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
+    "playedAt": "2026-07-10T16:05:41.911Z"
+  },
+  {
+    "title": "Flashing Lights",
+    "artist": "Kanye West, Dwele",
+    "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+    "playedAt": "2026-07-10T16:03:25.637Z"
+  },
+  {
     "title": "Secondhand (feat. Rema)",
     "artist": "Don Toliver, Rema",
     "url": "https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5",
@@ -40,33 +68,5 @@
     "url": "https://open.spotify.com/track/2Im64pIz6m0EJKdUe6eZ8r",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
     "playedAt": "2026-07-09T14:47:03.909Z"
-  },
-  {
-    "title": "90210 (feat. Kacy Hill)",
-    "artist": "Travis Scott, Kacy Hill",
-    "url": "https://open.spotify.com/track/51EC3I1nQXpec4gDk0mQyP",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273d3b5affd8824b4ed301b7137",
-    "playedAt": "2026-07-08T15:53:17.765Z"
-  },
-  {
-    "title": "MY EYES",
-    "artist": "Travis Scott",
-    "url": "https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27304481c826dd292e5e4983b3f",
-    "playedAt": "2026-07-08T15:10:14.386Z"
-  },
-  {
-    "title": "HONEST",
-    "artist": "Baby Keem",
-    "url": "https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273683757f1fd40a7f7ef64bec1",
-    "playedAt": "2026-07-07T15:36:18.282Z"
-  },
-  {
-    "title": "Lose",
-    "artist": "KSI, Lil Wayne",
-    "url": "https://open.spotify.com/track/46vNe30zHBP2HUaYjqjL5g",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27300254e01539f0340493306f6",
-    "playedAt": "2026-07-07T15:19:11.811Z"
   }
 ]
