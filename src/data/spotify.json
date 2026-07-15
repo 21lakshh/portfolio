@@ -1,5 +1,47 @@
 [
   {
+    "title": "Sweet Home",
+    "artist": "Don Toliver",
+    "url": "https://open.spotify.com/track/5xEDRg4tI8ixoAvbrupsEg",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
+    "playedAt": "2026-07-14T17:08:44.984Z"
+  },
+  {
+    "title": "Blueberry Faygo",
+    "artist": "Lil Mosey",
+    "url": "https://open.spotify.com/track/6wJYhPfqk3KGhHRG76WzOh",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273ab3f9995f4f3a83e0591c940",
+    "playedAt": "2026-07-14T16:15:38.457Z"
+  },
+  {
+    "title": "Too Many Nights (feat. Don Toliver & with Future)",
+    "artist": "Metro Boomin, Future, Don Toliver",
+    "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89",
+    "playedAt": "2026-07-14T16:12:55.564Z"
+  },
+  {
+    "title": "Shoota (feat. Lil Uzi Vert)",
+    "artist": "Playboi Carti, Lil Uzi Vert",
+    "url": "https://open.spotify.com/track/2BJSMvOGABRxokHKB0OI8i",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
+    "playedAt": "2026-07-14T16:09:35.355Z"
+  },
+  {
+    "title": "Long Time - Intro",
+    "artist": "Playboi Carti",
+    "url": "https://open.spotify.com/track/4IO2X2YoXoUMv0M2rwomLC",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
+    "playedAt": "2026-07-14T16:07:01.180Z"
+  },
+  {
+    "title": "Location",
+    "artist": "Playboi Carti",
+    "url": "https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
+    "playedAt": "2026-07-14T16:03:29.012Z"
+  },
+  {
     "title": "I Don't Like",
     "artist": "Chief Keef, Lil Reese",
     "url": "https://open.spotify.com/track/1h6kgem1ai8vUgO1rZOwfB",
@@ -26,47 +68,5 @@
     "url": "https://open.spotify.com/track/527k23H0A4Q0UJN3vGs0Da",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b2739d04d25e732c593fb94e7193",
     "playedAt": "2026-07-12T08:28:00.507Z"
-  },
-  {
-    "title": "No Pole",
-    "artist": "Don Toliver",
-    "url": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273307323fa550564b0201b1d76",
-    "playedAt": "2026-07-12T08:25:12.244Z"
-  },
-  {
-    "title": "2 Hard 4 The Radio",
-    "artist": "Drake",
-    "url": "https://open.spotify.com/track/7COiiObIVJIdBcW3J43Iy2",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-    "playedAt": "2026-07-12T08:22:04.191Z"
-  },
-  {
-    "title": "Tiramisu",
-    "artist": "Don Toliver",
-    "url": "https://open.spotify.com/track/2GHKo6nrSjruvBEQbzD7Fw",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-    "playedAt": "2026-07-11T16:34:27.724Z"
-  },
-  {
-    "title": "E85",
-    "artist": "Don Toliver",
-    "url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-    "playedAt": "2026-07-11T16:00:36.433Z"
-  },
-  {
-    "title": "No Idea",
-    "artist": "Don Toliver",
-    "url": "https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2739d04d25e732c593fb94e7193",
-    "playedAt": "2026-07-11T15:58:02.927Z"
-  },
-  {
-    "title": "All Of The Lights",
-    "artist": "Kanye West",
-    "url": "https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
-    "playedAt": "2026-07-10T16:14:23.390Z"
   }
 ]
