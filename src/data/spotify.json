@@ -1,5 +1,40 @@
 [
   {
+    "title": "WHAT TO DO? (feat. Don Toliver)",
+    "artist": "JACKBOYS, Travis Scott, Don Toliver",
+    "url": "https://open.spotify.com/track/4AO1XhrgJczQ9bNVxdfKQe",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273b920fc01c37be38130418a34",
+    "playedAt": "2026-07-23T15:48:35.056Z"
+  },
+  {
+    "title": "Come & Go (with Marshmello)",
+    "artist": "Juice WRLD, Marshmello",
+    "url": "https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb",
+    "playedAt": "2026-07-23T15:29:54.501Z"
+  },
+  {
+    "title": "Chasing Colors (feat. Noah Cyrus)",
+    "artist": "Marshmello, Ookay, Noah Cyrus",
+    "url": "https://open.spotify.com/track/1VxogbO6bfygdfaCnE9oLb",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27398229783fffc6ef8a387d1e3",
+    "playedAt": "2026-07-23T15:26:00.699Z"
+  },
+  {
+    "title": "Family Matters",
+    "artist": "Drake",
+    "url": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273a0ac23f4b446a7264e67bf0e",
+    "playedAt": "2026-07-23T14:38:11.314Z"
+  },
+  {
+    "title": "euphoria",
+    "artist": "Kendrick Lamar",
+    "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273bdc727cfc07ddbabf925bb2f",
+    "playedAt": "2026-07-23T14:25:16.951Z"
+  },
+  {
     "title": "Not Over Yet (feat. Tom Grennan)",
     "artist": "KSI, Tom Grennan",
     "url": "https://open.spotify.com/track/3t2Hx5FPih5lKaxJFd6bRE",
@@ -33,40 +68,5 @@
     "url": "https://open.spotify.com/track/6NMtzpDQBTOfJwMzgMX0zl",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32",
     "playedAt": "2026-07-22T15:46:05.525Z"
-  },
-  {
-    "title": "wrist",
-    "artist": "Ken Carson",
-    "url": "https://open.spotify.com/track/2LLALDUCUNpRPNNGLOwOrq",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-    "playedAt": "2026-07-22T15:25:26.952Z"
-  },
-  {
-    "title": "wheredoistart",
-    "artist": "Ken Carson",
-    "url": "https://open.spotify.com/track/1lJWyDulWuGHlPccvRdZVs",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-    "playedAt": "2026-07-22T15:11:08.311Z"
-  },
-  {
-    "title": "gynecologist",
-    "artist": "Ken Carson",
-    "url": "https://open.spotify.com/track/6AoCjfTG81tgoy08bOLX2H",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-    "playedAt": "2026-07-22T15:07:32.745Z"
-  },
-  {
-    "title": "shadeson (with 2hollis)",
-    "artist": "Ken Carson, 2hollis",
-    "url": "https://open.spotify.com/track/7155NVwKKJjtQtssuaqgJ9",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-    "playedAt": "2026-07-22T15:05:16.518Z"
-  },
-  {
-    "title": "deaf note (with Playboi Carti)",
-    "artist": "Ken Carson, Playboi Carti",
-    "url": "https://open.spotify.com/track/17BcTd9O7iLnHQfGo31ntV",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-    "playedAt": "2026-07-22T15:03:17.364Z"
   }
 ]
