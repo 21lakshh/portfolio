@@ -23,7 +23,22 @@ async function getAccessToken() {
       refresh_token,
     }),
   });
-  return response.json();
+
+  const data = await response.json();
+
+  if (!response.ok || !data.access_token) {
+    throw new Error(
+      `Spotify token refresh failed: ${response.status} ${data.error || ''} ${data.error_description || ''}`.trim()
+    );
+  }
+
+  // Spotify may rotate the refresh token; if it does, the old one stops working.
+  if (data.refresh_token && data.refresh_token !== refresh_token) {
+    console.warn('Spotify returned a new refresh token. Update SPOTIFY_REFRESH_TOKEN secret with:');
+    console.warn(data.refresh_token);
+  }
+
+  return data;
 }
 
 async function fetchRecentlyPlayed() {
