@@ -1,5 +1,19 @@
 [
   {
+    "title": "hate that i made you love me",
+    "artist": "Ariana Grande",
+    "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273b622d42c30697e1e1414343c",
+    "playedAt": "2026-07-29T06:20:30.343Z"
+  },
+  {
+    "title": "wonderful",
+    "artist": "Travis Scott",
+    "url": "https://open.spotify.com/track/1cZlBZwnwGPtYeRIeQcoFh",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2738752a7355996e64709247c53",
+    "playedAt": "2026-07-29T06:20:21.966Z"
+  },
+  {
     "title": "Taarifein",
     "artist": "Darshan Raval",
     "url": "https://open.spotify.com/track/6iqEHUlAqfwEhLitzM0Z3O",
@@ -54,19 +68,5 @@
     "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
     "playedAt": "2026-07-28T15:01:41.243Z"
-  },
-  {
-    "title": "Homecoming",
-    "artist": "Kanye West, Chris Martin",
-    "url": "https://open.spotify.com/track/4iz9lGMjU1lXS51oPmUmTe",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-    "playedAt": "2026-07-28T14:59:24.947Z"
-  },
-  {
-    "title": "On Sight",
-    "artist": "Kanye West",
-    "url": "https://open.spotify.com/track/1gqkRc9WtOpnGIqxf2Hvzr",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2731dacfbc31cc873d132958af9",
-    "playedAt": "2026-07-28T14:56:01.045Z"
   }
 ]
