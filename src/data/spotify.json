@@ -1,5 +1,12 @@
 [
   {
+    "title": "London - Bonus",
+    "artist": "Lil Uzi Vert",
+    "url": "https://open.spotify.com/track/3fq2iQjL6aun4zJ4R1cJjK",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
+    "playedAt": "2026-08-02T18:09:36.087Z"
+  },
+  {
     "title": "MY EYES",
     "artist": "Travis Scott",
     "url": "https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M",
@@ -61,12 +68,5 @@
     "url": "https://open.spotify.com/track/1Is8hGpkGMiePASAxBluxM",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b27335a8a0c8b82b525679eceda6",
     "playedAt": "2026-08-01T13:47:13.383Z"
-  },
-  {
-    "title": "BUTTERFLY EFFECT",
-    "artist": "Travis Scott",
-    "url": "https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32",
-    "playedAt": "2026-08-01T13:44:37.024Z"
   }
 ]
