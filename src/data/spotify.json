@@ -1,5 +1,33 @@
 [
   {
+    "title": "E85",
+    "artist": "Don Toliver",
+    "url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
+    "playedAt": "2026-08-07T15:22:13.405Z"
+  },
+  {
+    "title": "OLYMPIAN",
+    "artist": "Playboi Carti",
+    "url": "https://open.spotify.com/track/4uoADk7q83CHvXHW3k1etM",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+    "playedAt": "2026-08-07T14:41:16.207Z"
+  },
+  {
+    "title": "Location",
+    "artist": "Playboi Carti",
+    "url": "https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
+    "playedAt": "2026-08-07T14:38:21.087Z"
+  },
+  {
+    "title": "Long Time - Intro",
+    "artist": "Playboi Carti",
+    "url": "https://open.spotify.com/track/4IO2X2YoXoUMv0M2rwomLC",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
+    "playedAt": "2026-08-07T14:35:31.980Z"
+  },
+  {
     "title": "90210 (feat. Kacy Hill)",
     "artist": "Travis Scott, Kacy Hill",
     "url": "https://open.spotify.com/track/51EC3I1nQXpec4gDk0mQyP",
@@ -40,33 +68,5 @@
     "url": "https://open.spotify.com/track/45pUWUeEWGoSdH6UF162G8",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b27302854a7060fccc1a66a4b5ad",
     "playedAt": "2026-08-06T14:44:35.662Z"
-  },
-  {
-    "title": "SLIDE",
-    "artist": "¥$, Kanye West, Ty Dolla $ign",
-    "url": "https://open.spotify.com/track/5MGMXOhVvwzCjFgdQsFokR",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273fb9cedd86a3d08dc053a550d",
-    "playedAt": "2026-08-06T14:32:46.754Z"
-  },
-  {
-    "title": "Miss The Rage",
-    "artist": "Trippie Redd, Playboi Carti",
-    "url": "https://open.spotify.com/track/5n4FTCMefvyKUjeWumdaWv",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2731c0aacb7cb42f20914d319f4",
-    "playedAt": "2026-08-06T14:29:28.615Z"
-  },
-  {
-    "title": "RADAR",
-    "artist": "Playboi Carti",
-    "url": "https://open.spotify.com/track/3lAEHk0eZzMKtCUFLXz8Ln",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
-    "playedAt": "2026-08-06T14:25:31.340Z"
-  },
-  {
-    "title": "NO BYSTANDERS",
-    "artist": "Travis Scott",
-    "url": "https://open.spotify.com/track/6OaVWaGfhXn70ZJfdVcabn",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32",
-    "playedAt": "2026-08-06T14:23:42.999Z"
   }
 ]
