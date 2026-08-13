@@ -1,5 +1,40 @@
 [
   {
+    "title": "Hurricane",
+    "artist": "Kanye West, The Weeknd, Lil Baby",
+    "url": "https://open.spotify.com/track/6Hfu9sc7jvv6coyy2LlzBF",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd",
+    "playedAt": "2026-08-12T15:52:54.271Z"
+  },
+  {
+    "title": "ALL THE LOVE (feat. Andre Troutman)",
+    "artist": "Kanye West, Ye, Andre Troutman",
+    "url": "https://open.spotify.com/track/4pUInFMBNgrmVIaqTapNAt",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273c5b4082a6636bb067532b484",
+    "playedAt": "2026-08-12T15:34:02.907Z"
+  },
+  {
+    "title": "FIRST TIME IN A LONG TIME",
+    "artist": "DONDA, Kanye West, Ye",
+    "url": "https://open.spotify.com/track/7aUzsxDB0DYz7IHX83b2b4",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2737cd12a9cfd038d6f23c84a86",
+    "playedAt": "2026-08-12T15:30:13.069Z"
+  },
+  {
+    "title": "White Dress",
+    "artist": "Kanye West",
+    "url": "https://open.spotify.com/track/1gTANFZlqRitzVx7YSenzA",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2734375120f285973963ba597c2",
+    "playedAt": "2026-08-12T15:27:07.470Z"
+  },
+  {
+    "title": "drivers license",
+    "artist": "Olivia Rodrigo",
+    "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
+    "playedAt": "2026-08-12T14:56:53.225Z"
+  },
+  {
     "title": "I Did Something Bad",
     "artist": "Taylor Swift",
     "url": "https://open.spotify.com/track/4svZDCRz4cJoneBpjpx8DJ",
@@ -33,40 +68,5 @@
     "url": "https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f",
     "playedAt": "2026-08-11T15:31:53.336Z"
-  },
-  {
-    "title": "ATM",
-    "artist": "Don Toliver",
-    "url": "https://open.spotify.com/track/0FrESd7LNffZyGZ37VuSmH",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273df7b08323837d5d0558ad460",
-    "playedAt": "2026-08-11T15:27:03.840Z"
-  },
-  {
-    "title": "Excavator",
-    "artist": "Don Toliver",
-    "url": "https://open.spotify.com/track/2A5cwtDZpk7RvsPolrF4UL",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-    "playedAt": "2026-08-11T14:48:51.825Z"
-  },
-  {
-    "title": "Madness",
-    "artist": "KSI",
-    "url": "https://open.spotify.com/track/0gtoGKOhZuyV4cGEfCFDnU",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2735bf53a3450491d22baae4c1e",
-    "playedAt": "2026-08-11T14:32:56.844Z"
-  },
-  {
-    "title": "Days Before Rodeo: The Prayer",
-    "artist": "Travis Scott",
-    "url": "https://open.spotify.com/track/6TQwgRWmnovDECDrHVOxlY",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273a2a7386de6494fc9275e1abb",
-    "playedAt": "2026-08-11T14:25:47.707Z"
-  },
-  {
-    "title": "edm",
-    "artist": "Ken Carson",
-    "url": "https://open.spotify.com/track/3XhMqaH1IhunxatNHlPZED",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-    "playedAt": "2026-08-11T14:22:26.972Z"
   }
 ]
