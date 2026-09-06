@@ -1,5 +1,12 @@
 [
   {
+    "title": "The Batman - from \"The Batman\"",
+    "artist": "Michael Giacchino",
+    "url": "https://open.spotify.com/track/1NkI8DtCnjcWVCVLF0gB71",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2739c8bc3823967e9168badd41f",
+    "playedAt": "2026-09-05T20:55:40.816Z"
+  },
+  {
     "title": "ON NOTHING",
     "artist": "Yeat",
     "url": "https://open.spotify.com/track/0EfkB8iQhNxfXCjrKVdms5",
@@ -61,12 +68,5 @@
     "url": "https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b2731dacfbc31cc873d132958af9",
     "playedAt": "2026-09-04T12:02:53.466Z"
-  },
-  {
-    "title": "That Go! (feat. T-Shyne)",
-    "artist": "Young Stoner Life, Young Thug, Meek Mill, T-Shyne",
-    "url": "https://open.spotify.com/track/6rUmUJ2drFemHTH73bFAKQ",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273f60bfdd72c27eee42bf73d54",
-    "playedAt": "2026-09-04T11:57:58.663Z"
   }
 ]
