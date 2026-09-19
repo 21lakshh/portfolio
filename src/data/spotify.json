@@ -1,5 +1,40 @@
 [
   {
+    "title": "Aashiqana",
+    "artist": "Chaar Diwaari, Indian Ocean, gini",
+    "url": "https://open.spotify.com/track/5VmmaElvu2KTB0mpUSGlMy",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27355464e747040763e1616b01d",
+    "playedAt": "2026-09-18T14:26:41.220Z"
+  },
+  {
+    "title": "Iss Tarah",
+    "artist": "Chaar Diwaari, Sonu Nigam",
+    "url": "https://open.spotify.com/track/2YI0bMPGm30jXKiOH1kYGt",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27355464e747040763e1616b01d",
+    "playedAt": "2026-09-18T13:54:38.294Z"
+  },
+  {
+    "title": "Banda Kaam Ka",
+    "artist": "Chaar Diwaari, Sanjith Hegde",
+    "url": "https://open.spotify.com/track/6W4MOy1bqS6hm0a9ViBdon",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27355464e747040763e1616b01d",
+    "playedAt": "2026-09-18T13:49:14.473Z"
+  },
+  {
+    "title": "Farebi",
+    "artist": "Chaar Diwaari, Raftaar",
+    "url": "https://open.spotify.com/track/1Jsos1mzwTwYGOndYN5h8V",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2736d7f6a0fd312fb31ca3f91fb",
+    "playedAt": "2026-09-18T13:45:05.046Z"
+  },
+  {
+    "title": "White Noise 3 Hour Long",
+    "artist": "White Noise Therapy",
+    "url": "https://open.spotify.com/track/04boE4u1AupbrGlI62WvoO",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27312166260750943ad9dcdd563",
+    "playedAt": "2026-09-18T12:10:25.371Z"
+  },
+  {
     "title": "Iss Tarah",
     "artist": "Chaar Diwaari, Sonu Nigam",
     "url": "https://open.spotify.com/track/2YI0bMPGm30jXKiOH1kYGt",
@@ -33,40 +68,5 @@
     "url": "https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
     "playedAt": "2026-09-12T04:55:22.662Z"
-  },
-  {
-    "title": "Everyday",
-    "artist": "Logic, Marshmello",
-    "url": "https://open.spotify.com/track/6zOhgKfbMiQWToE6K13s2s",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2735f0132896cec27f928d90f9a",
-    "playedAt": "2026-09-12T04:40:06.312Z"
-  },
-  {
-    "title": "Balloon (feat. Doechii)",
-    "artist": "Tyler, The Creator, Doechii",
-    "url": "https://open.spotify.com/track/35D1RA5uVFVhMc1qX80TaQ",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273084a94988541c2402615d014",
-    "playedAt": "2026-09-12T04:36:41.077Z"
-  },
-  {
-    "title": "Count Me Out",
-    "artist": "Kendrick Lamar",
-    "url": "https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f",
-    "playedAt": "2026-09-12T04:34:06.478Z"
-  },
-  {
-    "title": "No Time - feat. Lil Durk",
-    "artist": "KSI, Lil Durk",
-    "url": "https://open.spotify.com/track/43biEegdEvel9ey0ilBpaf",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2734128a48270cd407a81fef739",
-    "playedAt": "2026-09-12T04:15:17.539Z"
-  },
-  {
-    "title": "We Don't Care",
-    "artist": "Kanye West",
-    "url": "https://open.spotify.com/track/0IW0qaeyxL5Et4UG2MrJKB",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78",
-    "playedAt": "2026-09-12T04:07:47.564Z"
   }
 ]
