@@ -1,5 +1,47 @@
 [
   {
+    "title": "ALL THE LOVE (feat. Andre Troutman)",
+    "artist": "Kanye West, Ye, Andre Troutman",
+    "url": "https://open.spotify.com/track/4pUInFMBNgrmVIaqTapNAt",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273c5b4082a6636bb067532b484",
+    "playedAt": "2026-09-21T10:15:58.990Z"
+  },
+  {
+    "title": "2 Hard 4 The Radio",
+    "artist": "Drake",
+    "url": "https://open.spotify.com/track/7COiiObIVJIdBcW3J43Iy2",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+    "playedAt": "2026-09-21T09:46:42.405Z"
+  },
+  {
+    "title": "House Money",
+    "artist": "Baby Keem",
+    "url": "https://open.spotify.com/track/5Th1SPySWgYlkXXC6wLMwL",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27308a27a15cf37664f0dab6ab7",
+    "playedAt": "2026-09-21T09:19:32.947Z"
+  },
+  {
+    "title": "Miss The Rage",
+    "artist": "Trippie Redd, Playboi Carti",
+    "url": "https://open.spotify.com/track/5n4FTCMefvyKUjeWumdaWv",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2731c0aacb7cb42f20914d319f4",
+    "playedAt": "2026-09-21T09:04:21.071Z"
+  },
+  {
+    "title": "Watch (feat. Lil Uzi Vert & Kanye West)",
+    "artist": "Travis Scott, Lil Uzi Vert, Kanye West",
+    "url": "https://open.spotify.com/track/3DoBTwfr8yi2LN08SBpFkN",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273ed71124ea2ab3ddc260eb1b6",
+    "playedAt": "2026-09-21T09:00:23.872Z"
+  },
+  {
+    "title": "BANDIT",
+    "artist": "Don Toliver",
+    "url": "https://open.spotify.com/track/0PHrcmOtDE89ew4vVEaD7S",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273b5050e0d58c704da6bb519e1",
+    "playedAt": "2026-09-21T08:51:46.468Z"
+  },
+  {
     "title": "White Noise 3 Hour Long",
     "artist": "White Noise Therapy",
     "url": "https://open.spotify.com/track/04boE4u1AupbrGlI62WvoO",
@@ -26,40 +68,5 @@
     "url": "https://open.spotify.com/track/6W4MOy1bqS6hm0a9ViBdon",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b27355464e747040763e1616b01d",
     "playedAt": "2026-09-18T13:49:14.473Z"
-  },
-  {
-    "title": "Farebi",
-    "artist": "Chaar Diwaari, Raftaar",
-    "url": "https://open.spotify.com/track/1Jsos1mzwTwYGOndYN5h8V",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2736d7f6a0fd312fb31ca3f91fb",
-    "playedAt": "2026-09-18T13:45:05.046Z"
-  },
-  {
-    "title": "White Noise 3 Hour Long",
-    "artist": "White Noise Therapy",
-    "url": "https://open.spotify.com/track/04boE4u1AupbrGlI62WvoO",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27312166260750943ad9dcdd563",
-    "playedAt": "2026-09-18T12:10:25.371Z"
-  },
-  {
-    "title": "Iss Tarah",
-    "artist": "Chaar Diwaari, Sonu Nigam",
-    "url": "https://open.spotify.com/track/2YI0bMPGm30jXKiOH1kYGt",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27355464e747040763e1616b01d",
-    "playedAt": "2026-09-17T08:01:59.069Z"
-  },
-  {
-    "title": "LOVESEXDHOKA!!!",
-    "artist": "Chaar Diwaari",
-    "url": "https://open.spotify.com/track/1u3KTMxSOXMX0cbb5BKGdc",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273035db665a4b78eff0e0b1b55",
-    "playedAt": "2026-09-17T07:07:38.004Z"
-  },
-  {
-    "title": "Banda Kaam Ka",
-    "artist": "Chaar Diwaari, Sanjith Hegde",
-    "url": "https://open.spotify.com/track/6vH6xKa1vh9ihWrLYZAmU8",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27342c1a41297ebb6c2a2be969d",
-    "playedAt": "2026-09-17T07:04:24.887Z"
   }
 ]
