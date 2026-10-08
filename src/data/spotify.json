@@ -1,5 +1,47 @@
 [
   {
+    "title": "the memories we lost in translation",
+    "artist": "Quadeca",
+    "url": "https://open.spotify.com/track/1b429FwlKvnGFRIhSRn8XO",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27345f6c58341c281d50d622c5c",
+    "playedAt": "2026-10-07T14:12:11.659Z"
+  },
+  {
+    "title": "Father Stretch My Hands Pt. 1",
+    "artist": "Kanye West",
+    "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
+    "playedAt": "2026-10-07T11:33:20.584Z"
+  },
+  {
+    "title": "Too Many Nights (feat. Don Toliver & with Future)",
+    "artist": "Metro Boomin, Future, Don Toliver",
+    "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89",
+    "playedAt": "2026-10-07T11:31:04.188Z"
+  },
+  {
+    "title": "SKELETONS",
+    "artist": "Travis Scott",
+    "url": "https://open.spotify.com/track/6NMtzpDQBTOfJwMzgMX0zl",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32",
+    "playedAt": "2026-10-07T11:27:43.740Z"
+  },
+  {
+    "title": "Location",
+    "artist": "Playboi Carti",
+    "url": "https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
+    "playedAt": "2026-10-07T11:25:17.673Z"
+  },
+  {
+    "title": "Father Stretch My Hands Pt. 1",
+    "artist": "Kanye West",
+    "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
+    "playedAt": "2026-10-07T11:21:04.484Z"
+  },
+  {
     "title": "Lost In The World",
     "artist": "Kanye West, Bon Iver",
     "url": "https://open.spotify.com/track/2Im64pIz6m0EJKdUe6eZ8r",
@@ -26,47 +68,5 @@
     "url": "https://open.spotify.com/track/4uhvMW7ly7tJil31YYscAN",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b2737efae18357229ecafd0eb31e",
     "playedAt": "2026-10-06T15:33:55.800Z"
-  },
-  {
-    "title": "Sweet Home",
-    "artist": "Don Toliver",
-    "url": "https://open.spotify.com/track/5xEDRg4tI8ixoAvbrupsEg",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-    "playedAt": "2026-10-06T15:30:35.303Z"
-  },
-  {
-    "title": "Street Lights",
-    "artist": "Kanye West",
-    "url": "https://open.spotify.com/track/6j8gTlbhj9KJSeypNcNAS9",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18",
-    "playedAt": "2026-10-06T15:27:13.832Z"
-  },
-  {
-    "title": "SKELETONS",
-    "artist": "Travis Scott",
-    "url": "https://open.spotify.com/track/6NMtzpDQBTOfJwMzgMX0zl",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32",
-    "playedAt": "2026-10-06T15:24:03.420Z"
-  },
-  {
-    "title": "SKELETONS",
-    "artist": "Travis Scott",
-    "url": "https://open.spotify.com/track/6NMtzpDQBTOfJwMzgMX0zl",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32",
-    "playedAt": "2026-10-06T15:22:54.838Z"
-  },
-  {
-    "title": "Too Many Nights (feat. Don Toliver & with Future)",
-    "artist": "Metro Boomin, Future, Don Toliver",
-    "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89",
-    "playedAt": "2026-10-06T12:35:19.946Z"
-  },
-  {
-    "title": "Cardigan",
-    "artist": "Don Toliver",
-    "url": "https://open.spotify.com/track/0Li1OuXXfi7950ilZUFGkF",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2739d04d25e732c593fb94e7193",
-    "playedAt": "2026-10-06T12:31:59.542Z"
   }
 ]
