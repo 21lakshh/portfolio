@@ -1,5 +1,47 @@
 [
   {
+    "title": "Around Me (feat. Don Toliver)",
+    "artist": "Metro Boomin, Don Toliver",
+    "url": "https://open.spotify.com/track/221qmpQeBNV87sUjQeUTVH",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89",
+    "playedAt": "2026-10-13T14:44:50.998Z"
+  },
+  {
+    "title": "Moon",
+    "artist": "Kanye West",
+    "url": "https://open.spotify.com/track/7CC6UbCs4iGsePSzFxYxNn",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd",
+    "playedAt": "2026-10-13T14:41:38.974Z"
+  },
+  {
+    "title": "Raindrops (Insane) [with Travis Scott]",
+    "artist": "Metro Boomin, Travis Scott",
+    "url": "https://open.spotify.com/track/1pacwLXyRO47ka0v6LTIiY",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89",
+    "playedAt": "2026-10-13T14:38:18.806Z"
+  },
+  {
+    "title": "5 TO 10",
+    "artist": "Don Toliver",
+    "url": "https://open.spotify.com/track/1zTGRPGqfZP0cfyTmoQP0V",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273b5050e0d58c704da6bb519e1",
+    "playedAt": "2026-10-13T14:18:10.584Z"
+  },
+  {
+    "title": "american dream",
+    "artist": "21 Savage",
+    "url": "https://open.spotify.com/track/4yreExU3eRNTe2iJz6X6k3",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2731e146244cf70b7aab703c057",
+    "playedAt": "2026-10-13T07:21:35.371Z"
+  },
+  {
+    "title": "Father Stretch My Hands Pt. 1",
+    "artist": "Kanye West",
+    "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
+    "playedAt": "2026-10-13T07:20:31.473Z"
+  },
+  {
     "title": "End of Beginning",
     "artist": "Djo",
     "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD",
@@ -26,47 +68,5 @@
     "url": "https://open.spotify.com/track/2yVMxWhM3LHmo3UVR0VVrZ",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b273f07737652b6102890b4b840d",
     "playedAt": "2026-10-12T09:58:36.661Z"
-  },
-  {
-    "title": "Long Time - Intro",
-    "artist": "Playboi Carti",
-    "url": "https://open.spotify.com/track/4IO2X2YoXoUMv0M2rwomLC",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
-    "playedAt": "2026-10-12T09:49:00.147Z"
-  },
-  {
-    "title": "Silent Hill",
-    "artist": "Kendrick Lamar, Kodak Black",
-    "url": "https://open.spotify.com/track/3lzUeaCbcCDB5IXYfqWRlF",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f",
-    "playedAt": "2026-10-12T09:45:27.865Z"
-  },
-  {
-    "title": "Hold My Liquor",
-    "artist": "Kanye West",
-    "url": "https://open.spotify.com/track/5nIu0VwPOsjkF61zfevLKh",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2731dacfbc31cc873d132958af9",
-    "playedAt": "2026-10-12T09:39:45.744Z"
-  },
-  {
-    "title": "911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy)",
-    "artist": "Tyler, The Creator, Frank Ocean, Steve Lacy",
-    "url": "https://open.spotify.com/track/4bEcoz1OcfMgUbp2ft8ieQ",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3",
-    "playedAt": "2026-10-12T09:34:18.315Z"
-  },
-  {
-    "title": "In Your Eyes",
-    "artist": "The Weeknd",
-    "url": "https://open.spotify.com/track/7szuecWAPwGoV1e5vGu8tl",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
-    "playedAt": "2026-10-12T09:30:02.169Z"
-  },
-  {
-    "title": "Blueberry Faygo",
-    "artist": "Lil Mosey",
-    "url": "https://open.spotify.com/track/6wJYhPfqk3KGhHRG76WzOh",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273ab3f9995f4f3a83e0591c940",
-    "playedAt": "2026-10-12T09:26:04.118Z"
   }
 ]
