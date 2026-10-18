@@ -1,5 +1,40 @@
 [
   {
+    "title": "Regular guy",
+    "artist": "Quadeca",
+    "url": "https://open.spotify.com/track/3EL4Oe5IpZHaceyhCo9lEP",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273022501794da0a51a2fcfb81a",
+    "playedAt": "2026-10-17T11:10:23.246Z"
+  },
+  {
+    "title": "Hell of a time",
+    "artist": "Quadeca",
+    "url": "https://open.spotify.com/track/1GrVkKi8ebMSlymyavs5aD",
+    "albumArt": "https://i.scdn.co/image/ab6742d3000053b7326daa5d60efc5c7f8aea5c0",
+    "playedAt": "2026-10-17T11:10:23.246Z"
+  },
+  {
+    "title": "Make you my what",
+    "artist": "Quadeca, kmoe",
+    "url": "https://open.spotify.com/track/38ry3QbZpaL6ggRTHyYQsv",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273022501794da0a51a2fcfb81a",
+    "playedAt": "2026-10-17T03:55:25.428Z"
+  },
+  {
+    "title": "CELERY",
+    "artist": "Quadeca",
+    "url": "https://open.spotify.com/track/2l1pFIQfIi56NCif08CyxO",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273022501794da0a51a2fcfb81a",
+    "playedAt": "2026-10-17T03:52:37.311Z"
+  },
+  {
+    "title": "It goes like this",
+    "artist": "Quadeca",
+    "url": "https://open.spotify.com/track/0Z1hvbWG6GJNfra89uS5Gx",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273022501794da0a51a2fcfb81a",
+    "playedAt": "2026-10-17T03:51:59.331Z"
+  },
+  {
     "title": "The hero never dies",
     "artist": "Quadeca",
     "url": "https://open.spotify.com/track/0KEAxTBRuLeZuqC71RBupn",
@@ -33,40 +68,5 @@
     "url": "https://open.spotify.com/track/0KEAxTBRuLeZuqC71RBupn",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b273022501794da0a51a2fcfb81a",
     "playedAt": "2026-10-16T14:31:44.394Z"
-  },
-  {
-    "title": "Dark magic",
-    "artist": "Quadeca",
-    "url": "https://open.spotify.com/track/2h3KBpfuC8LtaNJiQ137iP",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273022501794da0a51a2fcfb81a",
-    "playedAt": "2026-10-16T14:28:23.615Z"
-  },
-  {
-    "title": "Life 1 (where did the time go)",
-    "artist": "Quadeca",
-    "url": "https://open.spotify.com/track/3UeyOO6wbjl7kgoPzyPy4O",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273022501794da0a51a2fcfb81a",
-    "playedAt": "2026-10-16T14:25:28.506Z"
-  },
-  {
-    "title": "don't mind me",
-    "artist": "Quadeca",
-    "url": "https://open.spotify.com/track/03xeviJQUuCTN3VRl8GI8j",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27345f6c58341c281d50d622c5c",
-    "playedAt": "2026-10-16T14:22:00.833Z"
-  },
-  {
-    "title": "Reflections Laughing (feat. Travis Scott, Florence + The Machine)",
-    "artist": "The Weeknd, Travis Scott, Florence + The Machine",
-    "url": "https://open.spotify.com/track/2gyHr9WqZeMtzJOpWGuGo6",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273de79f330bc297af3fae736da",
-    "playedAt": "2026-10-16T14:16:40.704Z"
-  },
-  {
-    "title": "The Abyss (feat. Lana Del Rey)",
-    "artist": "The Weeknd, Lana Del Rey",
-    "url": "https://open.spotify.com/track/5ZDKPFRZC6QlJpf8bCIXTs",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273de79f330bc297af3fae736da",
-    "playedAt": "2026-10-16T05:13:56.837Z"
   }
 ]
