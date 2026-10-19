@@ -1,5 +1,33 @@
 [
   {
+    "title": "Hell of a time",
+    "artist": "Quadeca",
+    "url": "https://open.spotify.com/track/2J9OFEf6MwAjyFr9gvHdfB",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273022501794da0a51a2fcfb81a",
+    "playedAt": "2026-10-18T10:51:18.066Z"
+  },
+  {
+    "title": "Baby steps",
+    "artist": "Quadeca",
+    "url": "https://open.spotify.com/track/7eS9yh0FyFmgvSQODnLTiV",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273022501794da0a51a2fcfb81a",
+    "playedAt": "2026-10-18T05:23:10.473Z"
+  },
+  {
+    "title": "Like you always do",
+    "artist": "Quadeca",
+    "url": "https://open.spotify.com/track/0nrPmwBtNoPu8Klq66t2Ft",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273022501794da0a51a2fcfb81a",
+    "playedAt": "2026-10-18T05:14:34.023Z"
+  },
+  {
+    "title": "THE GAMBLER",
+    "artist": "Quadeca",
+    "url": "https://open.spotify.com/track/5X2BUItGwr6fU8taExWb2i",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273022501794da0a51a2fcfb81a",
+    "playedAt": "2026-10-18T05:08:48.075Z"
+  },
+  {
     "title": "Regular guy",
     "artist": "Quadeca",
     "url": "https://open.spotify.com/track/3EL4Oe5IpZHaceyhCo9lEP",
@@ -40,33 +68,5 @@
     "url": "https://open.spotify.com/track/0KEAxTBRuLeZuqC71RBupn",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b273022501794da0a51a2fcfb81a",
     "playedAt": "2026-10-17T02:43:44.355Z"
-  },
-  {
-    "title": "Dark magic",
-    "artist": "Quadeca",
-    "url": "https://open.spotify.com/track/2h3KBpfuC8LtaNJiQ137iP",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273022501794da0a51a2fcfb81a",
-    "playedAt": "2026-10-16T14:39:06.995Z"
-  },
-  {
-    "title": "CELERY",
-    "artist": "Quadeca",
-    "url": "https://open.spotify.com/track/2l1pFIQfIi56NCif08CyxO",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273022501794da0a51a2fcfb81a",
-    "playedAt": "2026-10-16T14:36:04.017Z"
-  },
-  {
-    "title": "It goes like this",
-    "artist": "Quadeca",
-    "url": "https://open.spotify.com/track/0Z1hvbWG6GJNfra89uS5Gx",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273022501794da0a51a2fcfb81a",
-    "playedAt": "2026-10-16T14:35:26.011Z"
-  },
-  {
-    "title": "The hero never dies",
-    "artist": "Quadeca",
-    "url": "https://open.spotify.com/track/0KEAxTBRuLeZuqC71RBupn",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273022501794da0a51a2fcfb81a",
-    "playedAt": "2026-10-16T14:31:44.394Z"
   }
 ]
