@@ -1,5 +1,12 @@
 [
   {
+    "title": "EK DIN",
+    "artist": "Karma, Arpit Bala",
+    "url": "https://open.spotify.com/track/2QxnDNmp8lXV4hmBzmeBXS",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273d3054771b1db9e6ac8654428",
+    "playedAt": "2026-11-09T10:39:01.152Z"
+  },
+  {
     "title": "COCAINE NOSE",
     "artist": "Playboi Carti",
     "url": "https://open.spotify.com/track/4rXxjHSAglOynjIF8Z34dx",
@@ -61,12 +68,5 @@
     "url": "https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b273ce32b2f1b4b9e2f1c68f84cc",
     "playedAt": "2026-11-03T14:49:36.815Z"
-  },
-  {
-    "title": "locked out",
-    "artist": "S-X, KSI",
-    "url": "https://open.spotify.com/track/7cKQEF9dB37LXBfmoi4eqw",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273a9112bca810d0e68febd8395",
-    "playedAt": "2026-11-03T14:44:45.211Z"
   }
 ]
