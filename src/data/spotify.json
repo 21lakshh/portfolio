@@ -1,5 +1,19 @@
 [
   {
+    "title": "Never Let Me Down",
+    "artist": "Kanye West, JAŸ-Z, J. Ivy",
+    "url": "https://open.spotify.com/track/34j4OxJxKznBs88cjSL2j9",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78",
+    "playedAt": "2026-11-10T05:47:39.068Z"
+  },
+  {
+    "title": "POWER",
+    "artist": "Kanye West",
+    "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+    "playedAt": "2026-11-09T20:18:34.525Z"
+  },
+  {
     "title": "EK DIN",
     "artist": "Karma, Arpit Bala",
     "url": "https://open.spotify.com/track/2QxnDNmp8lXV4hmBzmeBXS",
@@ -19,54 +33,5 @@
     "url": "https://open.spotify.com/track/2AnT5iXM8ET5kiqBuE8Mpi",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b27393732df9ce62f28580bdb40e",
     "playedAt": "2026-11-04T12:56:12.642Z"
-  },
-  {
-    "title": "Die Hard",
-    "artist": "Kendrick Lamar, Blxst, Amanda Reifer",
-    "url": "https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f",
-    "playedAt": "2026-11-03T20:33:37.963Z"
-  },
-  {
-    "title": "Save Your Tears (with Ariana Grande) (Remix)",
-    "artist": "The Weeknd, Ariana Grande",
-    "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273c6af5ffa661a365b77df6ef6",
-    "playedAt": "2026-11-03T15:12:11Z"
-  },
-  {
-    "title": "Coast of Carolina",
-    "artist": "Telekinesis",
-    "url": "https://open.spotify.com/track/1mLMs6eYFyOK419wvVp9TV",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273c403a58610bb4f79bf271fef",
-    "playedAt": "2026-11-03T15:05:24.461Z"
-  },
-  {
-    "title": "Suicidal (feat. Juice WRLD) - Remix",
-    "artist": "YNW Melly, Juice WRLD",
-    "url": "https://open.spotify.com/track/4S2uhQE8L9V6p7rj7SiauJ",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273b458693b51ec72c6a1e9c8e4",
-    "playedAt": "2026-11-03T15:01:52.162Z"
-  },
-  {
-    "title": "Famous",
-    "artist": "Kanye West",
-    "url": "https://open.spotify.com/track/19a3JfW8BQwqHWUMbcqSx8",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
-    "playedAt": "2026-11-03T14:57:01.053Z"
-  },
-  {
-    "title": "GUIDE DOG",
-    "artist": "Quadeca",
-    "url": "https://open.spotify.com/track/496Dg6Snf7Q3LyRLFjjGaf",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273f07737652b6102890b4b840d",
-    "playedAt": "2026-11-03T14:51:38.715Z"
-  },
-  {
-    "title": "We Didn't Start the Fire",
-    "artist": "Billy Joel",
-    "url": "https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273ce32b2f1b4b9e2f1c68f84cc",
-    "playedAt": "2026-11-03T14:49:36.815Z"
   }
 ]
