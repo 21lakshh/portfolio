@@ -1,5 +1,12 @@
 [
   {
+    "title": "WHITE LINES (feat. Andre Troutman)",
+    "artist": "Kanye West, Ye, Andre Troutman",
+    "url": "https://open.spotify.com/track/3bbjDFVu9BtFtGD2fZpVfz",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+    "playedAt": "2026-11-15T01:27:45.424Z"
+  },
+  {
     "title": "FATHER (feat. Travis Scott)",
     "artist": "Kanye West, Ye, Travis Scott",
     "url": "https://open.spotify.com/track/7brLC72TlCo8kXGzqnnqXR",
@@ -61,12 +68,5 @@
     "url": "https://open.spotify.com/track/1gTANFZlqRitzVx7YSenzA",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b2734375120f285973963ba597c2",
     "playedAt": "2026-11-12T08:13:48.315Z"
-  },
-  {
-    "title": "Through The Wire",
-    "artist": "Kanye West",
-    "url": "https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78",
-    "playedAt": "2026-11-12T08:10:12.645Z"
   }
 ]
