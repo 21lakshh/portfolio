@@ -1,5 +1,26 @@
 [
   {
+    "title": "Keep My Spirit Alive",
+    "artist": "Kanye West",
+    "url": "https://open.spotify.com/track/7EagormFign5ag6f16ua3I",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd",
+    "playedAt": "2026-11-15T07:33:38.905Z"
+  },
+  {
+    "title": "BULLY (feat. CeeLo Green)",
+    "artist": "Kanye West, Ye, CeeLo Green",
+    "url": "https://open.spotify.com/track/5W6ZKmxk3MzxlpyvGVs2CB",
+    "albumArt": "https://i.scdn.co/image/ab6742d3000053b71eb04f73db6d37ce5bbadd31",
+    "playedAt": "2026-11-15T07:33:38.905Z"
+  },
+  {
+    "title": "GEMINI SEASON",
+    "artist": "Kanye West, Ye",
+    "url": "https://open.spotify.com/track/72fc5aTLzwDrYioxMTulht",
+    "albumArt": "https://i.scdn.co/image/ab6742d3000053b75cf174b7def2fb1e980b7ee4",
+    "playedAt": "2026-11-15T07:33:38.905Z"
+  },
+  {
     "title": "WHITE LINES (feat. Andre Troutman)",
     "artist": "Kanye West, Ye, Andre Troutman",
     "url": "https://open.spotify.com/track/3bbjDFVu9BtFtGD2fZpVfz",
@@ -47,26 +68,5 @@
     "url": "https://open.spotify.com/track/1mN5j5E28JJmz0OrjrhcrB",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b273d699319fe62ffc8980e75fbd",
     "playedAt": "2026-11-12T08:21:46.320Z"
-  },
-  {
-    "title": "HUSBAND",
-    "artist": "¥$, Kanye West, Ty Dolla $ign",
-    "url": "https://open.spotify.com/track/6LHeisjoP8eHrtu45UbTPO",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273fb9cedd86a3d08dc053a550d",
-    "playedAt": "2026-11-12T08:18:22.641Z"
-  },
-  {
-    "title": "FOREVER",
-    "artist": "¥$, Kanye West, Ty Dolla $ign",
-    "url": "https://open.spotify.com/track/1Cxq3u0RQ0tEBbVofZ9Mma",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273fb9cedd86a3d08dc053a550d",
-    "playedAt": "2026-11-12T08:16:04.544Z"
-  },
-  {
-    "title": "White Dress",
-    "artist": "Kanye West",
-    "url": "https://open.spotify.com/track/1gTANFZlqRitzVx7YSenzA",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2734375120f285973963ba597c2",
-    "playedAt": "2026-11-12T08:13:48.315Z"
   }
 ]
