@@ -1,5 +1,26 @@
 [
   {
+    "title": "Ye",
+    "artist": "Burna Boy",
+    "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b2731960255826a4c362e1979498",
+    "playedAt": "2026-11-18T13:02:51.281Z"
+  },
+  {
+    "title": "WHITE LINES (feat. Andre Troutman)",
+    "artist": "Kanye West, Ye, Andre Troutman",
+    "url": "https://open.spotify.com/track/3bbjDFVu9BtFtGD2fZpVfz",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+    "playedAt": "2026-11-18T07:52:42.958Z"
+  },
+  {
+    "title": "White Noise 3 Hour Long",
+    "artist": "White Noise Therapy",
+    "url": "https://open.spotify.com/track/04boE4u1AupbrGlI62WvoO",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b27312166260750943ad9dcdd563",
+    "playedAt": "2026-11-18T06:40:28.047Z"
+  },
+  {
     "title": "White Noise 3 Hour Long",
     "artist": "White Noise Therapy",
     "url": "https://open.spotify.com/track/04boE4u1AupbrGlI62WvoO",
@@ -47,26 +68,5 @@
     "url": "https://open.spotify.com/track/3bbjDFVu9BtFtGD2fZpVfz",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
     "playedAt": "2026-11-15T01:27:45.424Z"
-  },
-  {
-    "title": "FATHER (feat. Travis Scott)",
-    "artist": "Kanye West, Ye, Travis Scott",
-    "url": "https://open.spotify.com/track/7brLC72TlCo8kXGzqnnqXR",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273c5b4082a6636bb067532b484",
-    "playedAt": "2026-11-13T04:45:50.206Z"
-  },
-  {
-    "title": "I CAN’T WAIT",
-    "artist": "Kanye West, Ye",
-    "url": "https://open.spotify.com/track/163l4Itf8oDEK7ZYdVm22N",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-    "playedAt": "2026-11-12T16:00:38.430Z"
-  },
-  {
-    "title": "New Again",
-    "artist": "Kanye West",
-    "url": "https://open.spotify.com/track/75QktuEju5vz9lyXiLaUao",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd",
-    "playedAt": "2026-11-12T15:51:39.447Z"
   }
 ]
