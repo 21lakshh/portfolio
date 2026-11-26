@@ -1,5 +1,12 @@
 [
   {
+    "title": "Dark Fantasy",
+    "artist": "Kanye West",
+    "url": "https://open.spotify.com/track/7yNK27ZTpHew0c55VvIJgm",
+    "albumArt": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+    "playedAt": "2026-11-26T06:15:51.677Z"
+  },
+  {
     "title": "Homecoming",
     "artist": "Kanye West, Chris Martin",
     "url": "https://open.spotify.com/track/4iz9lGMjU1lXS51oPmUmTe",
@@ -40,19 +47,5 @@
     "url": "https://open.spotify.com/track/04boE4u1AupbrGlI62WvoO",
     "albumArt": "https://i.scdn.co/image/ab67616d0000b27312166260750943ad9dcdd563",
     "playedAt": "2026-11-22T10:36:46.384Z"
-  },
-  {
-    "title": "Ye",
-    "artist": "Burna Boy",
-    "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b2731960255826a4c362e1979498",
-    "playedAt": "2026-11-18T13:02:51.281Z"
-  },
-  {
-    "title": "WHITE LINES (feat. Andre Troutman)",
-    "artist": "Kanye West, Ye, Andre Troutman",
-    "url": "https://open.spotify.com/track/3bbjDFVu9BtFtGD2fZpVfz",
-    "albumArt": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-    "playedAt": "2026-11-18T07:52:42.958Z"
   }
 ]
